@@ -120,8 +120,7 @@ src/
    - Authentication: เปิด Sign-in method **Google** และ **Email/Password**
 4. รันเว็บ
    ```bash
-   npm run dev        # โหมดพัฒนา → http://localhost:5173
-   npm run build      # build สำหรับ deploy (ผลลัพธ์อยู่ในโฟลเดอร์ dist)
+   npm run dev        
    ```
 
 **การใช้งาน:** ผู้ใช้ทั่วไปดูสถานที่ แผนที่ และร้านค้าได้ทันที เข้าสู่ระบบเพื่อให้คะแนน บัญชีที่ตรงกับ `VITE_ADMIN_EMAIL` จะเห็นเมนู "หลังบ้าน" ในเมนูชื่อผู้ใช้มุมขวาบน
