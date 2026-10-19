@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# ไฟล์ลับ — ห้ามขึ้น GitHub
+.env
+.env.*
+
+# ไฟล์ชั่วคราว
+_to_delete/
+vite.config.js.timestamp-*
+*.log
+.DS_Store
+Thumbs.db

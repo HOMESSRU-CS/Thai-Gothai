@@ -1,0 +1,3328 @@
+{
+  "categories": {
+    "north": {
+      "name": "ภาคเหนือ"
+    },
+    "central": {
+      "name": "ภาคกลาง"
+    },
+    "northeast": {
+      "name": "ภาคตะวันออกเฉียงเหนือ"
+    },
+    "south": {
+      "name": "ภาคใต้"
+    },
+    "east": {
+      "name": "ภาคตะวันออก"
+    }
+  },
+  "places": {
+    "N001": {
+      "name_th": "ดอยอินทนนท์",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "description": "ยอดเขาสูงที่สุดในประเทศไทย ความสูง 2,565 เมตร มีทะเลหมอก น้ำตก และดอกไม้เมืองหนาวสวยงาม เป็นที่ตั้งของพระมหาธาตุนภเมทนีดลและพระมหาธาตุนภพลภูมิสิริ",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/North/doi_inthanon.png",
+      "thumbnail": "image/thumbnails/North/doi_inthanon_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 18.5886,
+      "lng": 98.4867,
+      "foods": [
+        {
+          "name": "ข้าวซอยไก่",
+          "desc": "อุ่นท้องท่ามกลางอากาศหนาวบนดอย"
+        },
+        {
+          "name": "สตรอว์เบอร์รีสด",
+          "desc": "จากแปลงเกษตรของชาวม้ง"
+        },
+        {
+          "name": "กาแฟอาราบิก้าดอยอินทนนท์",
+          "desc": "กาแฟจากโครงการหลวง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Doi Inthanon",
+      "province_en": "Chiang Mai",
+      "description_en": "The highest peak in Thailand at 2,565 m, with seas of mist, waterfalls and cool-climate flowers. Home to the twin royal pagodas Phra Maha Dhatu Naphamethanidon and Naphaphonphumisiri.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 300 THB (foreigners)"
+    },
+    "N002": {
+      "name_th": "วัดพระธาตุดอยสุเทพ",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "description": "วัดพระธาตุคู่เมืองเชียงใหม่บนยอดดอยสุเทพ ความสูง 1,073 เมตร ประดิษฐานพระบรมสารีริกธาตุ ชมวิวเมืองเชียงใหม่จากจุดชมวิวได้งดงามยิ่ง",
+      "opening_hours": "06:00-20:00",
+      "entrance_fee": "30 บาท (คนไทย) / 50 บาท (ต่างชาติ)",
+      "image": "image/details/North/wat_phra_that_doi_suthep.png",
+      "thumbnail": "image/thumbnails/North/wat_phra_that_doi_suthep_128.png",
+      "source": "สำนักงานพระพุทธศาสนาแห่งชาติ",
+      "lat": 18.8048,
+      "lng": 98.9216,
+      "foods": [
+        {
+          "name": "ข้าวซอย",
+          "desc": "ร้านริมทางขึ้นดอยสุเทพ"
+        },
+        {
+          "name": "ไส้อั่ว",
+          "desc": "ย่างหอมขายเชิงบันไดนาค"
+        },
+        {
+          "name": "น้ำพริกหนุ่ม",
+          "desc": "กินคู่แคบหมู"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Phra That Doi Suthep",
+      "province_en": "Chiang Mai",
+      "description_en": "Chiang Mai's sacred hilltop temple at 1,073 m, enshrining a relic of the Buddha, with a stunning viewpoint over the city.",
+      "opening_hours_en": "06:00-20:00",
+      "entrance_fee_en": "30 THB (Thai) / 50 THB (foreigners)"
+    },
+    "N003": {
+      "name_th": "ม่อนแจ่ม",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "description": "จุดชมวิวทะเลหมอกยอดนิยมของเชียงใหม่ ตั้งอยู่บนความสูง 1,300 เมตร อากาศเย็นสบาย มีสวนดอกไม้และที่พักกระท่อมสไตล์ยุโรปสวยงาม",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/mon_jam.png",
+      "thumbnail": "image/thumbnails/North/mon_jam_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 18.9353,
+      "lng": 98.8217,
+      "foods": [
+        {
+          "name": "หมูกระทะ",
+          "desc": "กินกลางลมหนาวบนม่อน"
+        },
+        {
+          "name": "ผักสลัดโครงการหลวง",
+          "desc": "ผักปลอดสารจากแปลงบนดอย"
+        },
+        {
+          "name": "ชาร้อน",
+          "desc": "ดื่มคู่วิวทะเลหมอก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Mon Jam",
+      "province_en": "Chiang Mai",
+      "description_en": "A popular sea-of-mist viewpoint at 1,300 m with cool air, flower gardens and European-style cabin stays.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "N004": {
+      "name_th": "ดอยอ่างขาง",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "description": "สถานีเกษตรกรรมบนที่สูงชายแดนไทย-เมียนมา อากาศหนาวเย็น มีสวนดอกไม้เมืองหนาวหลากสีสัน และชาไร่ที่ปลูกตามไหล่เขาสวยงาม",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/North/doi_ang_khang.png",
+      "thumbnail": "image/thumbnails/North/doi_ang_khang_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 19.901,
+      "lng": 99.042,
+      "foods": [
+        {
+          "name": "ผักโครงการหลวงผัดน้ำมันหอย",
+          "desc": "ผักสดจากสถานีเกษตรหลวง"
+        },
+        {
+          "name": "เกาเหลาหมูยูนนาน",
+          "desc": "อาหารจีนยูนนานบ้านนอแล"
+        },
+        {
+          "name": "ชาอูหลง",
+          "desc": "ชาจากไร่บนดอย"
+        }
+      ],
+      "shops": [],
+      "name_en": "Doi Ang Khang",
+      "province_en": "Chiang Mai",
+      "description_en": "A highland royal agricultural station on the Thai–Myanmar border, with cold weather, colourful flower gardens and tea terraces along the slopes.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 300 THB (foreigners)"
+    },
+    "N005": {
+      "name_th": "ประตูท่าแพ",
+      "province": "เชียงใหม่",
+      "region": "ภาคเหนือ",
+      "description": "แลนด์มาร์กทางประวัติศาสตร์ที่สำคัญที่สุดแห่งหนึ่งของเชียงใหม่",
+      "opening_hours": "24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/tha_phae.png",
+      "thumbnail": "image/thumbnails/North/tha_phae_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 18.7877,
+      "lng": 98.9934,
+      "foods": [
+        {
+          "name": "ข้าวซอย",
+          "desc": "ร้านดังย่านคูเมือง"
+        },
+        {
+          "name": "ขนมจีนน้ำเงี้ยว",
+          "desc": "อาหารเช้าคนเชียงใหม่"
+        },
+        {
+          "name": "ไส้อั่ว",
+          "desc": "ซื้อได้ที่ถนนคนเดินท่าแพ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Tha Phae Gate",
+      "province_en": "Chiang Mai",
+      "description_en": "One of Chiang Mai's most important historic landmarks.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "N006": {
+      "name_th": "วัดร่องขุ่น",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "วัดศิลปะร่วมสมัยโดยอาจารย์เฉลิมชัย โฆษิตพิพัฒน์ ตกแต่งด้วยกระจกและกระเบื้องสีขาวสะท้อนแสงสวยงาม เป็นหนึ่งในสถาปัตยกรรมที่โดดเด่นที่สุดของไทย",
+      "opening_hours": "08:00-17:30",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/wat_rong_khun.png",
+      "thumbnail": "image/thumbnails/North/wat_rong_khun_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.8241,
+      "lng": 99.763,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวหมูตุ๋น",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ขนมจีนน้ำเงี้ยว",
+          "desc": "อาหารพื้นเมืองเชียงราย"
+        },
+        {
+          "name": "ไอศกรีมกะทิ",
+          "desc": "กินคลายร้อนหลังชมวัด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Rong Khun (White Temple)",
+      "province_en": "Chiang Rai",
+      "description_en": "A contemporary art temple by Chalermchai Kositpipat, decorated with white plaster and mirrored glass — one of Thailand's most striking buildings.",
+      "opening_hours_en": "08:00-17:30",
+      "entrance_fee_en": "Free"
+    },
+    "N007": {
+      "name_th": "ดอยตุง",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "ที่ตั้งพระตำหนักดอยตุง สวนดอกไม้และสวนแม่ฟ้าหลวง ชมทิวทัศน์งดงามและเยี่ยมชมผลิตภัณฑ์ชุมชนภายใต้โครงการมูลนิธิแม่ฟ้าหลวง",
+      "opening_hours": "07:00-17:30",
+      "entrance_fee": "90 บาท (คนไทย) / 150 บาท (ต่างชาติ)",
+      "image": "image/details/North/doi_tung.png",
+      "thumbnail": "image/thumbnails/North/doi_tung_128.png",
+      "source": "มูลนิธิแม่ฟ้าหลวง ในพระบรมราชูปถัมภ์",
+      "lat": 20.329,
+      "lng": 99.834,
+      "foods": [
+        {
+          "name": "อาหารไทใหญ่",
+          "desc": "ข้าวกั๊นจิ๊นและแกงฮังเล"
+        },
+        {
+          "name": "กาแฟดอยตุง",
+          "desc": "กาแฟจากโครงการพัฒนาดอยตุง"
+        },
+        {
+          "name": "แมคคาเดเมียอบ",
+          "desc": "ของดีดอยตุง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Doi Tung",
+      "province_en": "Chiang Rai",
+      "description_en": "Home to the Doi Tung Royal Villa and Mae Fah Luang Garden, with beautiful scenery and community products from the Mae Fah Luang Foundation.",
+      "opening_hours_en": "07:00-17:30",
+      "entrance_fee_en": "90 THB (Thai) / 150 THB (foreigners)"
+    },
+    "N008": {
+      "name_th": "สิงห์ปาร์ค เชียงราย",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "ฟาร์มชาและไร่ดอกไม้ขนาดใหญ่ในเชียงราย มีทุ่งดอกไม้ กวางเดินอิสระ และวิวไหล่เขาสีเขียวสวยงาม เหมาะสำหรับถ่ายภาพและปั่นจักรยานชมธรรมชาติ",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/singha_park_chiang_rai.png",
+      "thumbnail": "image/thumbnails/North/singha_park_chiang_rai_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.865,
+      "lng": 99.754,
+      "foods": [
+        {
+          "name": "ชาอู่หลงสิงห์ปาร์ค",
+          "desc": "ชาจากไร่ในสวน"
+        },
+        {
+          "name": "สตรอว์เบอร์รีสด",
+          "desc": "เก็บจากแปลง"
+        },
+        {
+          "name": "ไอศกรีมชาเขียว",
+          "desc": "ทำจากชาในไร่"
+        }
+      ],
+      "shops": [],
+      "name_en": "Singha Park Chiang Rai",
+      "province_en": "Chiang Rai",
+      "description_en": "A large tea farm and flower park with blooming fields, free-roaming deer and green rolling hills — great for photos and cycling.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "N009": {
+      "name_th": "ภูชี้ฟ้า",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "จุดชมวิวทะเลหมอกที่สวยที่สุดแห่งหนึ่งของไทย บนความสูง 1,628 เมตร ชายแดนไทย-ลาว ทิวทัศน์ตระการตายิ่งในช่วงฤดูหนาว",
+      "opening_hours": "05:00-18:00",
+      "entrance_fee": "30 บาท",
+      "image": "image/details/North/phu_chi_fa.png",
+      "thumbnail": "image/thumbnails/North/phu_chi_fa_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 19.859,
+      "lng": 100.452,
+      "foods": [
+        {
+          "name": "หมูกระทะ",
+          "desc": "กินกลางลมหนาว"
+        },
+        {
+          "name": "ข้าวต้มร้อน",
+          "desc": "อาหารเช้าหลังดูทะเลหมอก"
+        },
+        {
+          "name": "ชาดอยร้อน",
+          "desc": "ดื่มที่จุดชมวิว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phu Chi Fa",
+      "province_en": "Chiang Rai",
+      "description_en": "One of Thailand's most beautiful sea-of-mist viewpoints at 1,628 m on the Thai–Lao border, spectacular in the cool season.",
+      "opening_hours_en": "05:00-18:00",
+      "entrance_fee_en": "30 THB"
+    },
+    "N010": {
+      "name_th": "วัดห้วยปลากั้ง",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "เป็นแลนด์มาร์กทางศาสนาและวัฒนธรรมร่วมสมัยที่สำคัญของจังหวัดเชียงราย",
+      "opening_hours": "07:00 – 21:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/Wat_Huai_Pla_Kang.png",
+      "thumbnail": "image/thumbnails/North/Wat_Huai_Pla_Kang_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 19.937,
+      "lng": 99.836,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวไก่",
+          "desc": "ร้านเล็กหน้าวัด"
+        },
+        {
+          "name": "ข้าวซอย",
+          "desc": "อาหารเหนือยอดนิยม"
+        },
+        {
+          "name": "น้ำมะพร้าวเย็น",
+          "desc": "ดื่มคลายร้อน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Huai Pla Kang",
+      "province_en": "Chiang Rai",
+      "description_en": "An important religious and contemporary cultural landmark of Chiang Rai.",
+      "opening_hours_en": "07:00 – 21:00",
+      "entrance_fee_en": "Free"
+    },
+    "N011": {
+      "name_th": "พิพิธภัณฑ์บ้านดำ",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "เป็นพื้นที่จัดแสดงงานศิลปะร่วมสมัยขนาดใหญ่ของอาจารย์ถวัลย์ ดัชนี ศิลปินแห่งชาติสาขาทัศนศิลป์ผู้ล่วงลับ",
+      "opening_hours": " 09:00 – 17:00",
+      "entrance_fee": "80 บาท",
+      "image": "image/details/North/Black_House.png",
+      "thumbnail": "image/thumbnails/North/Black_House_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 19.992,
+      "lng": 99.86,
+      "foods": [
+        {
+          "name": "ขนมจีนน้ำเงี้ยว",
+          "desc": "ร้านในละแวกนางแล"
+        },
+        {
+          "name": "สับปะรดนางแล",
+          "desc": "สับปะรดขึ้นชื่อเชียงราย"
+        },
+        {
+          "name": "กาแฟดอยช้าง",
+          "desc": "กาแฟเชียงราย"
+        }
+      ],
+      "shops": [],
+      "name_en": "Baan Dam Museum (Black House)",
+      "province_en": "Chiang Rai",
+      "description_en": "A large contemporary art space by the late National Artist Thawan Duchanee.",
+      "opening_hours_en": " 09:00 – 17:00",
+      "entrance_fee_en": "80 THB"
+    },
+    "N012": {
+      "name_th": "สามเหลี่ยมทองคำ",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "พื้นที่พรมแดนทางธรรมชาติและประวัติศาสตร์ที่สำคัญ",
+      "opening_hours": " 09:00 – 17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/Golden_triangle.png",
+      "thumbnail": "image/thumbnails/North/Golden_triangle_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 20.353,
+      "lng": 100.083,
+      "foods": [
+        {
+          "name": "ปลาแม่น้ำโขงทอด",
+          "desc": "ปลาสดริมโขง"
+        },
+        {
+          "name": "ข้าวซอยจีนยูนนาน",
+          "desc": "อาหารจีนชายแดน"
+        },
+        {
+          "name": "ชาเย็นริมโขง",
+          "desc": "ดื่มชมวิวสามประเทศ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Golden Triangle",
+      "province_en": "Chiang Rai",
+      "description_en": "An important natural and historic border area where Thailand, Laos and Myanmar meet.",
+      "opening_hours_en": " 09:00 – 17:00",
+      "entrance_fee_en": "Free"
+    },
+    "N013": {
+      "name_th": "กว๊านพะเยา",
+      "province": "พะเยา",
+      "region": "ภาคเหนือ",
+      "description": "เป็นทะเลสาบน้ำจืดตามธรรมชาติที่ใหญ่ที่สุดในภาคเหนือ และใหญ่เป็นอันดับ 4 ของประเทศไทย",
+      "opening_hours": "24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/kwan_phayao.png",
+      "thumbnail": "image/thumbnails/North/kwan_phayao_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 19.166,
+      "lng": 99.878,
+      "foods": [
+        {
+          "name": "ปลาส้มกว๊านพะเยา",
+          "desc": "ปลาหมักจากกว๊าน ทอดกรอบ"
+        },
+        {
+          "name": "ปลานิลเผาเกลือ",
+          "desc": "ปลาจากกว๊านพะเยา"
+        },
+        {
+          "name": "ข้าวแคบ",
+          "desc": "แผ่นข้าวอบกรอบ ของฝากขึ้นชื่อ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Kwan Phayao",
+      "province_en": "Phayao",
+      "description_en": "The largest natural freshwater lake in Northern Thailand and the fourth largest in the country.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "N014": {
+      "name_th": "วัดพระธาตุผาซ่อนแก้ว",
+      "province": "เพชรบูรณ์",
+      "region": "ภาคเหนือ",
+      "description": "วัดสีขาวงดงามบนยอดเขาในเพชรบูรณ์ มีพระธาตุสีขาวประดับกระจก ล้อมรอบด้วยทะเลหมอกและวิวภูเขาสวยงาม",
+      "opening_hours": "08:00-17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/wat_phra_that_pha_son_kaew.png",
+      "thumbnail": "image/thumbnails/North/wat_phra_that_pha_son_kaew_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 16.748,
+      "lng": 101.031,
+      "foods": [
+        {
+          "name": "ไก่ย่างเขาค้อ",
+          "desc": "ไก่ย่างสมุนไพร"
+        },
+        {
+          "name": "กาแฟเขาค้อ",
+          "desc": "ดื่มชมวิวภูเขา"
+        },
+        {
+          "name": "มะขามหวาน",
+          "desc": "ผลไม้ขึ้นชื่อเพชรบูรณ์"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Phra That Pha Son Kaew",
+      "province_en": "Phetchabun",
+      "description_en": "A beautiful white hilltop temple in Phetchabun with a glass-mosaic pagoda, surrounded by mist and mountain views.",
+      "opening_hours_en": "08:00-17:00",
+      "entrance_fee_en": "Free"
+    },
+    "N015": {
+      "name_th": "เขาค้อ",
+      "province": "เพชรบูรณ์",
+      "region": "ภาคเหนือ",
+      "description": "แหล่งท่องเที่ยวเชิงธรรมชาติและประวัติศาสตร์การต่อสู้บนที่สูง มีทะเลหมอก สวนดอกไม้ อากาศเย็นสบาย และอนุสรณ์สถานเขาค้อ",
+      "opening_hours": "24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/khao_kho.png",
+      "thumbnail": "image/thumbnails/North/khao_kho_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 16.65,
+      "lng": 101.1,
+      "foods": [
+        {
+          "name": "หมูกระทะเขาค้อ",
+          "desc": "กินกลางอากาศเย็น"
+        },
+        {
+          "name": "ไก่ย่างเขาค้อ",
+          "desc": "ไก่ย่างสมุนไพร"
+        },
+        {
+          "name": "สตรอว์เบอร์รีเขาค้อ",
+          "desc": "ผลไม้เมืองหนาว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Kho",
+      "province_en": "Phetchabun",
+      "description_en": "A nature and history destination in the highlands with seas of mist, flower gardens, cool weather and the Khao Kho memorial.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "N016": {
+      "name_th": "เขื่อนแม่สรวย",
+      "province": "เชียงราย",
+      "region": "ภาคเหนือ",
+      "description": "เป็นสถานที่ท่องเที่ยวไฮไลต์และอ่างเก็บน้ำขนาดใหญ่ และเป้นแหล่งรวมกิจกรรมไฮไลต์วันสงกรานต์",
+      "opening_hours": "24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/Mae_Suai_Dam.png",
+      "thumbnail": "image/thumbnails/North/Mae_Suai_Dam_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.656,
+      "lng": 99.538,
+      "foods": [
+        {
+          "name": "ปลานิลเผา",
+          "desc": "ปลาจากอ่างเก็บน้ำ"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "กินคู่ปลาเผาริมเขื่อน"
+        },
+        {
+          "name": "ต้มยำปลา",
+          "desc": "น้ำซุปร้อนรสจัด"
+        }
+      ],
+      "shops": [
+        {
+          "name": "เต้นลุงชัย",
+          "type": "ร้านค้าร่วมโครงการ",
+          "partner": true,
+          "line": "lungchai8785482"
+        }
+      ],
+      "name_en": "Mae Suai Dam",
+      "province_en": "Chiang Rai",
+      "description_en": "A highlight attraction and large reservoir, and a hub for Songkran festival activities.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "N017": {
+      "name_th": "วัดศรีโคมคํา",
+      "province": "พะเยา",
+      "region": "ภาคเหนือ",
+      "description": "เป็นพระอารามหลวงชั้นตรีและเป็นวัดคู่บ้านคู่เมืองพะเยามาอย่างยาวนานกว่า 500 ปี",
+      "opening_hours": "08:00 – 17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/Wat_Sri_Khom.png",
+      "thumbnail": "image/thumbnails/North/Wat_Sri_Khom_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.169,
+      "lng": 99.893,
+      "foods": [
+        {
+          "name": "ปลาส้มทอด",
+          "desc": "ปลาจากกว๊านพะเยา"
+        },
+        {
+          "name": "ข้าวซอย",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ข้าวแคบ",
+          "desc": "ของฝากพะเยา"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Si Khom Kham",
+      "province_en": "Phayao",
+      "description_en": "A third-class royal temple that has been the spiritual heart of Phayao for over 500 years.",
+      "opening_hours_en": "08:00 – 17:00",
+      "entrance_fee_en": "Free"
+    },
+    "N018": {
+      "name_th": "ปายแคนยอน",
+      "province": "แม่ฮ่องสอน",
+      "region": "ภาคเหนือ",
+      "description": "เป็นหนึ่งในแลนด์มาร์กทางธรรมชาติที่มหัศจรรย์และมีชื่อเสียงที่สุดของอำเภอปาย",
+      "opening_hours": "24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/pai.png",
+      "thumbnail": "image/thumbnails/North/pai_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.329,
+      "lng": 98.437,
+      "foods": [
+        {
+          "name": "ข้าวซอยปาย",
+          "desc": "ร้านในตัวเมืองปาย"
+        },
+        {
+          "name": "โรตีกล้วย",
+          "desc": "ขนมยอดนิยมถนนคนเดิน"
+        },
+        {
+          "name": "ถั่วเน่าแผ่น",
+          "desc": "ของดีไทใหญ่"
+        }
+      ],
+      "shops": [],
+      "name_en": "Pai Canyon",
+      "province_en": "Mae Hong Son",
+      "description_en": "One of the most amazing and famous natural landmarks of Pai.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "N019": {
+      "name_th": "น้ำตกธารสวรรค์",
+      "province": "พะเยา",
+      "region": "ภาคเหนือ",
+      "description": "เป็นหนึ่งในสถานที่ท่องเที่ยวประเภท Unseen ที่งดงามมากของจังหวัดพะเยา",
+      "opening_hours": "08:00 – 16:30",
+      "entrance_fee": "20 บาท",
+      "image": "image/details/North/Than_Sawan_Waterfal.png",
+      "thumbnail": "image/thumbnails/North/Than_Sawan_Waterfal_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 19.238,
+      "lng": 100.023,
+      "foods": [
+        {
+          "name": "ไก่ย่าง",
+          "desc": "กินริมลำธาร"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "อาหารริมน้ำตก"
+        },
+        {
+          "name": "ข้าวเหนียวมะม่วง",
+          "desc": "ของหวานยอดนิยม"
+        }
+      ],
+      "shops": [],
+      "name_en": "Than Sawan Waterfall",
+      "province_en": "Phayao",
+      "description_en": "One of the most beautiful \"Unseen\" attractions of Phayao.",
+      "opening_hours_en": "08:00 – 16:30",
+      "entrance_fee_en": "20 THB"
+    },
+    "N020": {
+      "name_th": "วัดพระธาตุลำปางหลวง",
+      "province": "ลำปาง",
+      "region": "ภาคเหนือ",
+      "description": "เป็นพระอารามหลวงและโบราณสถานคู่บ้านคู่เมืองจังหวัดลำปางที่มีความสำคัญที่สุด ตั้",
+      "opening_hours": "07:30 – 17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/North/Wat_Phra_That_Lampang.png",
+      "thumbnail": "image/thumbnails/North/Wat_Phra_That_Lampang_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 18.217,
+      "lng": 99.39,
+      "foods": [
+        {
+          "name": "ข้าวแต๋น",
+          "desc": "ขนมข้าวพองน้ำอ้อย ของฝากลำปาง"
+        },
+        {
+          "name": "ขนมจีนน้ำเงี้ยว",
+          "desc": "ร้านหน้าวัด"
+        },
+        {
+          "name": "ข้าวซอย",
+          "desc": "อาหารเหนือ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Phra That Lampang Luang",
+      "province_en": "Lampang",
+      "description_en": "The most important royal temple and historic site of Lampang.",
+      "opening_hours_en": "07:30 – 17:00",
+      "entrance_fee_en": "Free"
+    },
+    "C001": {
+      "name_th": "พระบรมมหาราชวัง",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "อดีตที่ประทับของพระมหากษัตริย์ไทย สร้างขึ้นในปี พ.ศ. 2325 เป็นสถาปัตยกรรมอันงดงามผสมผสานศิลปะไทยและตะวันตก เป็นสถานที่ท่องเที่ยวสำคัญของกรุงเทพมหานคร",
+      "opening_hours": "08:30-15:30",
+      "entrance_fee": "500 บาท (ต่างชาติ) / ฟรี (คนไทย)",
+      "image": "image/details/Central/grand_palace.png",
+      "thumbnail": "image/thumbnails/Central/grand_palace_128.png",
+      "source": "สำนักพระราชวัง",
+      "lat": 13.75,
+      "lng": 100.4913,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือท่าเตียน",
+          "desc": "ร้านใกล้ท่าเรือ"
+        },
+        {
+          "name": "ข้าวแช่",
+          "desc": "อาหารชาววังหน้าร้อน"
+        },
+        {
+          "name": "ขนมไทยโบราณ",
+          "desc": "ทองหยิบ ฝอยทอง"
+        }
+      ],
+      "shops": [],
+      "name_en": "The Grand Palace",
+      "province_en": "Bangkok",
+      "description_en": "The former residence of Thai kings, built in 1782, blending Thai and Western architecture — one of Bangkok's most important sights.",
+      "opening_hours_en": "08:30-15:30",
+      "entrance_fee_en": "500 THB (foreigners) / Free (Thai)"
+    },
+    "C002": {
+      "name_th": "วัดพระแก้ว",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "วัดพระศรีรัตนศาสดาราม เป็นที่ประดิษฐานพระแก้วมรกต วัดคู่บ้านคู่เมืองที่สำคัญที่สุดของไทย ตั้งอยู่ในเขตพระบรมมหาราชวัง",
+      "opening_hours": "08:30-15:30",
+      "entrance_fee": "รวมกับค่าเข้าพระบรมมหาราชวัง",
+      "image": "image/details/Central/wat_phra_kaew.png",
+      "thumbnail": "image/thumbnails/Central/wat_phra_kaew_128.png",
+      "source": "สำนักพระราชวัง",
+      "lat": 13.7516,
+      "lng": 100.4927,
+      "foods": [
+        {
+          "name": "ข้าวแช่ชาววัง",
+          "desc": "อาหารไทยโบราณ"
+        },
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านย่านท่าช้าง"
+        },
+        {
+          "name": "ขนมไทย",
+          "desc": "ย่านท่าพระจันทร์"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Phra Kaew (Temple of the Emerald Buddha)",
+      "province_en": "Bangkok",
+      "description_en": "Home of the Emerald Buddha and Thailand's most sacred temple, located within the Grand Palace grounds.",
+      "opening_hours_en": "08:30-15:30",
+      "entrance_fee_en": "Included with Grand Palace ticket"
+    },
+    "C003": {
+      "name_th": "วัดอรุณราชวราราม",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "วัดริมแม่น้ำเจ้าพระยาที่มีพระปรางค์ประดับกระเบื้องเคลือบและเปลือกหอยอันวิจิตร เป็นสัญลักษณ์ของกรุงเทพมหานคร นิยมชมความงามยามพระอาทิตย์ตกดิน",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "100 บาท (ต่างชาติ) / ฟรี (คนไทย)",
+      "image": "image/details/Central/wat_arun.png",
+      "thumbnail": "image/thumbnails/Central/wat_arun_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 13.7437,
+      "lng": 100.4889,
+      "foods": [
+        {
+          "name": "อาหารริมเจ้าพระยา",
+          "desc": "ร้านวิวพระปรางค์"
+        },
+        {
+          "name": "ก๋วยเตี๋ยวต้มยำ",
+          "desc": "ร้านฝั่งธนบุรี"
+        },
+        {
+          "name": "ชาไทยเย็น",
+          "desc": "ดื่มชมวิวแม่น้ำ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Arun (Temple of Dawn)",
+      "province_en": "Bangkok",
+      "description_en": "A riverside temple with a prang decorated with porcelain and seashells, a symbol of Bangkok — especially beautiful at sunset.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "100 THB (foreigners) / Free (Thai)"
+    },
+    "C004": {
+      "name_th": "วัดโพธิ์",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "วัดพระเชตุพนวิมลมังคลาราม ที่ประดิษฐานพระพุทธไสยาสน์องค์ใหญ่ และเป็นแหล่งกำเนิดการแพทย์แผนไทยและนวดแผนโบราณ",
+      "opening_hours": "08:00-18:30",
+      "entrance_fee": "200 บาท (ต่างชาติ) / ฟรี (คนไทย)",
+      "image": "image/details/Central/wat_pho.png",
+      "thumbnail": "image/thumbnails/Central/wat_pho_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 13.7465,
+      "lng": 100.493,
+      "foods": [
+        {
+          "name": "ผัดไทย",
+          "desc": "ร้านย่านท่าเตียน"
+        },
+        {
+          "name": "ข้าวมันไก่",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ขนมเบื้องไทย",
+          "desc": "ขนมโบราณ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Pho",
+      "province_en": "Bangkok",
+      "description_en": "Home of the giant Reclining Buddha and the birthplace of traditional Thai medicine and Thai massage.",
+      "opening_hours_en": "08:00-18:30",
+      "entrance_fee_en": "200 THB (foreigners) / Free (Thai)"
+    },
+    "C005": {
+      "name_th": "ICONSIAM",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "ศูนย์การค้าริมแม่น้ำเจ้าพระยาระดับโลก รวมร้านค้าหรู ตลาดสุขสยามที่จำลองวิถีชีวิตไทยทุกภาค และจุดชมน้ำพุแสงสีเสียง",
+      "opening_hours": "10:00-22:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/iconsiam.png",
+      "thumbnail": "image/thumbnails/Central/iconsiam_128.png",
+      "source": "ICONSIAM",
+      "lat": 13.7266,
+      "lng": 100.5103,
+      "foods": [
+        {
+          "name": "สุขสยาม",
+          "desc": "รวมอาหารริมทางทุกภาค"
+        },
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ในโซนสุขสยาม"
+        },
+        {
+          "name": "ขนมไทย",
+          "desc": "จากร้านดังทั่วประเทศ"
+        }
+      ],
+      "shops": [],
+      "name_en": "ICONSIAM",
+      "province_en": "Bangkok",
+      "description_en": "A world-class riverside mall with luxury shops, the SookSiam market showcasing every region of Thailand, and a light-and-water fountain show.",
+      "opening_hours_en": "10:00-22:00",
+      "entrance_fee_en": "Free"
+    },
+    "C006": {
+      "name_th": "สวนลุมพินี",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "สวนสาธารณะระดับย่านใจกลางกรุงเทพมหานคร",
+      "opening_hours": "06:00-24:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/LumpiniPark.png",
+      "thumbnail": "image/thumbnails/Central/LumpiniPark_128.png",
+      "source": "กรุงเทพมหานคร",
+      "lat": 13.7314,
+      "lng": 100.5414,
+      "foods": [
+        {
+          "name": "โจ๊กหมู",
+          "desc": "อาหารเช้าหลังวิ่ง"
+        },
+        {
+          "name": "น้ำเต้าหู้",
+          "desc": "ขายรอบสวนตอนเช้า"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "รถเข็นรอบสวน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Lumphini Park",
+      "province_en": "Bangkok",
+      "description_en": "A large public park in the heart of Bangkok.",
+      "opening_hours_en": "06:00-24:00",
+      "entrance_fee_en": "Free"
+    },
+    "C007": {
+      "name_th": "เยาวราช",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "ย่านไชน่าทาวน์ของกรุงเทพฯ แหล่งรวมร้านอาหาร ของกินริมทาง และร้านทองเก่าแก่ บรรยากาศคึกคักโดยเฉพาะยามค่ำคืน",
+      "opening_hours": "10:00-24:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/yaowarat.png",
+      "thumbnail": "image/thumbnails/Central/yaowarat_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 13.7398,
+      "lng": 100.51,
+      "foods": [
+        {
+          "name": "ก๋วยจั๊บน้ำข้น",
+          "desc": "เมนูดังเยาวราช"
+        },
+        {
+          "name": "หูฉลามและอาหารทะเล",
+          "desc": "ร้านดังริมถนน"
+        },
+        {
+          "name": "ขนมบัวลอยน้ำขิง",
+          "desc": "ของหวานจีน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Yaowarat (Chinatown)",
+      "province_en": "Bangkok",
+      "description_en": "Bangkok's Chinatown, packed with restaurants, street food and historic gold shops — liveliest at night.",
+      "opening_hours_en": "10:00-24:00",
+      "entrance_fee_en": "Free"
+    },
+    "C008": {
+      "name_th": "เอเชียทีค เดอะ ริเวอร์ฟรอนท์",
+      "province": "กรุงเทพมหานคร",
+      "region": "ภาคกลาง",
+      "description": "แหล่งช้อปปิ้งและไลฟ์สไตล์ริมแม่น้ำเจ้าพระยา ปรับปรุงจากอดีตท่าเรือและโกดังสินค้า มีชิงช้าสวรรค์และร้านค้ามากมาย",
+      "opening_hours": "16:00-24:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/asiatique.png",
+      "thumbnail": "image/thumbnails/Central/asiatique_128.png",
+      "source": "เอเชียทีค เดอะ ริเวอร์ฟรอนท์",
+      "lat": 13.7046,
+      "lng": 100.503,
+      "foods": [
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "ร้านริมเจ้าพระยา"
+        },
+        {
+          "name": "ไอศกรีมกะทิ",
+          "desc": "ของหวานเดินเล่น"
+        },
+        {
+          "name": "หมูปิ้ง",
+          "desc": "สตรีทฟู้ด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Asiatique The Riverfront",
+      "province_en": "Bangkok",
+      "description_en": "A riverside shopping and lifestyle venue converted from old docks and warehouses, with a Ferris wheel and many shops.",
+      "opening_hours_en": "16:00-24:00",
+      "entrance_fee_en": "Free"
+    },
+    "C009": {
+      "name_th": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+      "province": "พระนครศรีอยุธยา",
+      "region": "ภาคกลาง",
+      "description": "มรดกโลกทางวัฒนธรรมโดยองค์การยูเนสโก ประกอบด้วยโบราณสถานสำคัญของอดีตราชธานีไทยที่รุ่งเรืองยาวนานกว่า 400 ปี",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100-220 บาท (ต่างชาติ)",
+      "image": "image/details/Central/ayutthaya_historical_park.png",
+      "thumbnail": "image/thumbnails/Central/ayutthaya_historical_park_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 14.356,
+      "lng": 100.559,
+      "foods": [
+        {
+          "name": "กุ้งแม่น้ำเผา",
+          "desc": "กุ้งตัวโตเนื้อแน่น"
+        },
+        {
+          "name": "ก๋วยเตี๋ยวเรืออยุธยา",
+          "desc": "ต้นตำรับก๋วยเตี๋ยวเรือ"
+        },
+        {
+          "name": "โรตีสายไหม",
+          "desc": "ขนมขึ้นชื่ออยุธยา"
+        }
+      ],
+      "shops": [],
+      "name_en": "Ayutthaya Historical Park",
+      "province_en": "Phra Nakhon Si Ayutthaya",
+      "description_en": "A UNESCO World Heritage Site with the ruins of the former Thai capital that flourished for over 400 years.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100-220 THB (foreigners)"
+    },
+    "C010": {
+      "name_th": "วัดมหาธาตุ อยุธยา",
+      "province": "พระนครศรีอยุธยา",
+      "region": "ภาคกลาง",
+      "description": "วัดโบราณชื่อดังที่มีเศียรพระพุทธรูปหินทรายในรากไม้ต้นโพธิ์ เป็นภาพที่เป็นสัญลักษณ์ของอยุธยาที่นักท่องเที่ยวนิยมถ่ายรูป",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/Central/wat_mahathat_ayutthaya.png",
+      "thumbnail": "image/thumbnails/Central/wat_mahathat_ayutthaya_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 14.357,
+      "lng": 100.5677,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านรอบเกาะเมือง"
+        },
+        {
+          "name": "โรตีสายไหม",
+          "desc": "ของฝากอยุธยา"
+        },
+        {
+          "name": "กุ้งแม่น้ำเผา",
+          "desc": "ร้านริมน้ำ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Mahathat, Ayutthaya",
+      "province_en": "Phra Nakhon Si Ayutthaya",
+      "description_en": "Famous for the sandstone Buddha head entwined in the roots of a bodhi tree — Ayutthaya's most photographed sight.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100 THB (foreigners)"
+    },
+    "C011": {
+      "name_th": "วัดไชยวัฒนาราม",
+      "province": "พระนครศรีอยุธยา",
+      "region": "ภาคกลาง",
+      "description": "วัดริมแม่น้ำเจ้าพระยาที่มีสถาปัตยกรรมแบบเขมร สวยงามโดดเด่นโดยเฉพาะยามพระอาทิตย์ตก เป็นหนึ่งในจุดถ่ายภาพยอดนิยมของอยุธยา",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/Central/wat_chaiwatthanaram.png",
+      "thumbnail": "image/thumbnails/Central/wat_chaiwatthanaram_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 14.3428,
+      "lng": 100.5418,
+      "foods": [
+        {
+          "name": "กุ้งเผาริมเจ้าพระยา",
+          "desc": "ร้านวิววัดไชยฯ"
+        },
+        {
+          "name": "ปลาเผาเกลือ",
+          "desc": "อาหารริมน้ำ"
+        },
+        {
+          "name": "โรตีสายไหม",
+          "desc": "ของฝาก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Chaiwatthanaram",
+      "province_en": "Phra Nakhon Si Ayutthaya",
+      "description_en": "A Khmer-style riverside temple, stunning at sunset and one of Ayutthaya's top photo spots.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100 THB (foreigners)"
+    },
+    "C012": {
+      "name_th": "วัดพระศรีสรรเพชญ์",
+      "province": "พระนครศรีอยุธยา",
+      "region": "ภาคกลาง",
+      "description": "อดีตวัดหลวงประจำพระราชวังโบราณ มีเจดีย์ทรงลังกาสามองค์เรียงกันอันเป็นเอกลักษณ์ ถือเป็นต้นแบบของวัดพระศรีรัตนศาสดาราม",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/Central/wat_phra_si_sanphet.png",
+      "thumbnail": "image/thumbnails/Central/wat_phra_si_sanphet_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 14.3559,
+      "lng": 100.5585,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ขนมบ้าบิ่น",
+          "desc": "ขนมไทยโบราณ"
+        },
+        {
+          "name": "โรตีสายไหม",
+          "desc": "ของฝากอยุธยา"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Phra Si Sanphet",
+      "province_en": "Phra Nakhon Si Ayutthaya",
+      "description_en": "The former royal temple of the old palace, known for its three Ceylonese-style chedis in a row.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100 THB (foreigners)"
+    },
+    "C013": {
+      "name_th": "ตลาดน้ำอัมพวา",
+      "province": "สมุทรสงคราม",
+      "region": "ภาคกลาง",
+      "description": "ตลาดน้ำริมคลองยามเย็นที่มีชื่อเสียงเรื่องอาหารทะเลสด และกิจกรรมล่องเรือชมหิ่งห้อยยามค่ำคืน เปิดเฉพาะวันศุกร์-อาทิตย์",
+      "opening_hours": "12:00-20:00 (ศุกร์-อาทิตย์)",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/amphawa_floating_market.png",
+      "thumbnail": "image/thumbnails/Central/amphawa_floating_market_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 13.425,
+      "lng": 99.955,
+      "foods": [
+        {
+          "name": "หอยทอด",
+          "desc": "ทำสดบนเรือ"
+        },
+        {
+          "name": "ปลาทูแม่กลอง",
+          "desc": "ปลาทูหน้างอคอหัก"
+        },
+        {
+          "name": "กุ้งเผาบนเรือ",
+          "desc": "เมนูยอดนิยมตลาดน้ำ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Amphawa Floating Market",
+      "province_en": "Samut Songkhram",
+      "description_en": "An evening canal-side market famous for fresh seafood and firefly boat trips at night. Open Friday–Sunday.",
+      "opening_hours_en": "12:00-20:00 (Fri–Sun)",
+      "entrance_fee_en": "Free"
+    },
+    "C014": {
+      "name_th": "ตลาดน้ำดำเนินสะดวก",
+      "province": "ราชบุรี",
+      "region": "ภาคกลาง",
+      "description": "ตลาดน้ำที่มีชื่อเสียงระดับโลก เรือพายขายผลไม้และอาหารพื้นบ้านหลากสีสัน เป็นภาพจำของวิถีชีวิตริมคลองแบบไทยดั้งเดิม",
+      "opening_hours": "07:00-17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/damnoen_saduak.png",
+      "thumbnail": "image/thumbnails/Central/damnoen_saduak_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 13.519,
+      "lng": 99.959,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ขายบนเรือ"
+        },
+        {
+          "name": "ผัดไทยกุ้งสด",
+          "desc": "ทำสดบนเรือ"
+        },
+        {
+          "name": "มะพร้าวน้ำหอม",
+          "desc": "หวานหอมสดชื่น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Damnoen Saduak Floating Market",
+      "province_en": "Ratchaburi",
+      "description_en": "A world-famous floating market where boats sell fruit and local food — an iconic image of traditional Thai canal life.",
+      "opening_hours_en": "07:00-17:00",
+      "entrance_fee_en": "Free"
+    },
+    "C015": {
+      "name_th": "สะพานข้ามแม่น้ำแคว",
+      "province": "กาญจนบุรี",
+      "region": "ภาคกลาง",
+      "description": "สะพานประวัติศาสตร์สมัยสงครามโลกครั้งที่สอง สร้างโดยเชลยศึกฝ่ายสัมพันธมิตร เป็นสถานที่รำลึกถึงเหตุการณ์ทางประวัติศาสตร์ที่สำคัญ",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/river_kwai_bridge.png",
+      "thumbnail": "image/thumbnails/Central/river_kwai_bridge_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 14.041,
+      "lng": 99.504,
+      "foods": [
+        {
+          "name": "ปลาแรดทอด",
+          "desc": "ปลาจากแม่น้ำแคว"
+        },
+        {
+          "name": "ข้าวหลาม",
+          "desc": "ข้าวเหนียวมูนในกระบอกไม้ไผ่"
+        },
+        {
+          "name": "ต้มยำปลาคัง",
+          "desc": "ร้านแพริมแคว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Bridge over the River Kwai",
+      "province_en": "Kanchanaburi",
+      "description_en": "A WWII historic bridge built by Allied prisoners of war, a place to remember an important chapter of history.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "C016": {
+      "name_th": "น้ำตกเอราวัณ",
+      "province": "กาญจนบุรี",
+      "region": "ภาคกลาง",
+      "description": "น้ำตกหินปูนเจ็ดชั้นสวยงามในอุทยานแห่งชาติเอราวัณ น้ำสีเขียวมรกตใสสะอาด นิยมเล่นน้ำและเดินป่าชมธรรมชาติ",
+      "opening_hours": "08:00-16:30",
+      "entrance_fee": "100 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/Central/erawan_waterfall.png",
+      "thumbnail": "image/thumbnails/Central/erawan_waterfall_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 14.368,
+      "lng": 99.144,
+      "foods": [
+        {
+          "name": "ไก่ย่างส้มตำ",
+          "desc": "ร้านหน้าอุทยาน"
+        },
+        {
+          "name": "ข้าวผัด",
+          "desc": "อาหารจานเดียวก่อนเดินน้ำตก"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "พกขึ้นน้ำตก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Erawan Waterfall",
+      "province_en": "Kanchanaburi",
+      "description_en": "A beautiful seven-tier limestone waterfall in Erawan National Park with clear emerald pools for swimming and hiking.",
+      "opening_hours_en": "08:00-16:30",
+      "entrance_fee_en": "100 THB (Thai) / 300 THB (foreigners)"
+    },
+    "C017": {
+      "name_th": "เมืองโบราณ",
+      "province": "สมุทรปราการ",
+      "region": "ภาคกลาง",
+      "description": "พิพิธภัณฑ์กลางแจ้งขนาดใหญ่ที่จำลองสถานที่สำคัญทั่วประเทศไทยตามรูปแผนที่ประเทศ รวมสถาปัตยกรรมและโบราณสถานจำลองกว่า 100 แห่ง",
+      "opening_hours": "09:00-19:00",
+      "entrance_fee": "700 บาท (คนไทย) / 900 บาท (ต่างชาติ)",
+      "image": "image/details/Central/ancient_city.png",
+      "thumbnail": "image/thumbnails/Central/ancient_city_128.png",
+      "source": "เมืองโบราณ",
+      "lat": 13.544,
+      "lng": 100.626,
+      "foods": [
+        {
+          "name": "อาหารไทยโบราณ",
+          "desc": "ร้านในตลาดน้ำเมืองโบราณ"
+        },
+        {
+          "name": "ข้าวแช่",
+          "desc": "อาหารชาววัง"
+        },
+        {
+          "name": "ขนมไทย",
+          "desc": "ขนมครก ขนมถ้วย"
+        }
+      ],
+      "shops": [],
+      "name_en": "Ancient City (Muang Boran)",
+      "province_en": "Samut Prakan",
+      "description_en": "A huge open-air museum laid out like a map of Thailand, with over 100 replicas of famous buildings and monuments.",
+      "opening_hours_en": "09:00-19:00",
+      "entrance_fee_en": "700 THB (Thai) / 900 THB (foreigners)"
+    },
+    "C018": {
+      "name_th": "พระปฐมเจดีย์",
+      "province": "นครปฐม",
+      "region": "ภาคกลาง",
+      "description": "เจดีย์ที่สูงที่สุดในประเทศไทย เชื่อกันว่าเป็นเจดีย์แห่งแรกในดินแดนไทย เป็นศูนย์รวมจิตใจของชาวนครปฐมและพุทธศาสนิกชน",
+      "opening_hours": "06:00-19:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/phra_pathom_chedi.png",
+      "thumbnail": "image/thumbnails/Central/phra_pathom_chedi_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 13.8199,
+      "lng": 100.06,
+      "foods": [
+        {
+          "name": "ข้าวหลามนครชัยศรี",
+          "desc": "ข้าวเหนียวมูนในกระบอกไม้ไผ่"
+        },
+        {
+          "name": "ข้าวมันไก่",
+          "desc": "ร้านดังรอบองค์พระ"
+        },
+        {
+          "name": "ส้มโอนครชัยศรี",
+          "desc": "ผลไม้ขึ้นชื่อ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phra Pathom Chedi",
+      "province_en": "Nakhon Pathom",
+      "description_en": "Thailand's tallest chedi, believed to be the first in the land and a spiritual centre for Buddhists.",
+      "opening_hours_en": "06:00-19:00",
+      "entrance_fee_en": "Free"
+    },
+    "C019": {
+      "name_th": "ตลาดสามชุก",
+      "province": "สุพรรณบุรี",
+      "region": "ภาคกลาง",
+      "description": "ตลาดร้อยปีริมแม่น้ำท่าจีน อาคารไม้เก่าแก่ยังคงสภาพดั้งเดิม เป็นแหล่งรวมอาหารพื้นถิ่นและของกินโบราณหายาก",
+      "opening_hours": "08:00-17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Central/sam_chuk_market.png",
+      "thumbnail": "image/thumbnails/Central/sam_chuk_market_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 14.755,
+      "lng": 100.096,
+      "foods": [
+        {
+          "name": "เป็ดพะโล้",
+          "desc": "เมนูขึ้นชื่อตลาดสามชุก"
+        },
+        {
+          "name": "ปลาเผา",
+          "desc": "ปลาย่างตลาดเก่า"
+        },
+        {
+          "name": "ขนมสาลี่สุพรรณ",
+          "desc": "ขนมไข่เนื้อนุ่ม"
+        }
+      ],
+      "shops": [],
+      "name_en": "Sam Chuk Market",
+      "province_en": "Suphan Buri",
+      "description_en": "A 100-year-old riverside market with original wooden buildings and rare traditional local food.",
+      "opening_hours_en": "08:00-17:00",
+      "entrance_fee_en": "Free"
+    },
+    "C020": {
+      "name_th": "พระราชวังสนามจันทร์",
+      "province": "นครปฐม",
+      "region": "ภาคกลาง",
+      "description": "พระราชวังที่รัชกาลที่ 6 โปรดให้สร้างขึ้น สถาปัตยกรรมผสมผสานไทยและยุโรป ล้อมรอบด้วยสวนและคูน้ำร่มรื่นสวยงาม",
+      "opening_hours": "08:30-16:30",
+      "entrance_fee": "30 บาท (คนไทย) / 50 บาท (ต่างชาติ)",
+      "image": "image/details/Central/sanam_chandra_palace.png",
+      "thumbnail": "image/thumbnails/Central/sanam_chandra_palace_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 13.815,
+      "lng": 100.043,
+      "foods": [
+        {
+          "name": "ข้าวหลาม",
+          "desc": "ของฝากนครปฐม"
+        },
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านรอบพระราชวัง"
+        },
+        {
+          "name": "ส้มโอ",
+          "desc": "ผลไม้ขึ้นชื่อ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Sanam Chandra Palace",
+      "province_en": "Nakhon Pathom",
+      "description_en": "A palace built by King Rama VI, mixing Thai and European architecture, surrounded by shady gardens and moats.",
+      "opening_hours_en": "08:30-16:30",
+      "entrance_fee_en": "30 THB (Thai) / 50 THB (foreigners)"
+    },
+    "NE001": {
+      "name_th": "อุทยานแห่งชาติเขาใหญ่",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "อุทยานแห่งชาติแห่งแรกของไทยและมรดกโลกทางธรรมชาติ มีป่าดิบชื้นอุดมสมบูรณ์ สัตว์ป่านานาชนิด และน้ำตกสวยงามหลายแห่ง",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "40 บาท (คนไทย) / 400 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/khao_yai.png",
+      "thumbnail": "image/thumbnails/Northeast/khao_yai_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 14.439,
+      "lng": 101.372,
+      "foods": [
+        {
+          "name": "สเต๊กเนื้อโคนม",
+          "desc": "เมนูดังแถบปากช่อง"
+        },
+        {
+          "name": "ข้าวโพดหวานปิ้ง",
+          "desc": "ขายริมทางขึ้นเขาใหญ่"
+        },
+        {
+          "name": "นมสดปากช่อง",
+          "desc": "จากฟาร์มโคนม"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Yai National Park",
+      "province_en": "Nakhon Ratchasima",
+      "description_en": "Thailand's first national park and a natural World Heritage Site, with lush rainforest, wildlife and many waterfalls.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "40 THB (Thai) / 400 THB (foreigners)"
+    },
+    "NE002": {
+      "name_th": "ผาเก็บตะวัน",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "จุดชมวิวยอดนิยมในวังน้ำเขียว มองเห็นทะเลหมอกและพระอาทิตย์ขึ้นสวยงาม ล้อมรอบด้วยขุนเขาเขียวขจี",
+      "opening_hours": "05:00-18:00",
+      "entrance_fee": "20 บาท",
+      "image": "image/details/Northeast/pha_kep_tawan.png",
+      "thumbnail": "image/thumbnails/Northeast/pha_kep_tawan_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 14.556,
+      "lng": 101.463,
+      "foods": [
+        {
+          "name": "ไก่ย่างวังน้ำเขียว",
+          "desc": "ไก่ย่างหนังกรอบ"
+        },
+        {
+          "name": "ผักปลอดสาร",
+          "desc": "จากฟาร์มวังน้ำเขียว"
+        },
+        {
+          "name": "กาแฟร้อน",
+          "desc": "ดื่มชมพระอาทิตย์ตก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Pha Kep Tawan",
+      "province_en": "Nakhon Ratchasima",
+      "description_en": "A popular viewpoint in Wang Nam Khiao with seas of mist and beautiful sunrises over green mountains.",
+      "opening_hours_en": "05:00-18:00",
+      "entrance_fee_en": "20 THB"
+    },
+    "NE003": {
+      "name_th": "อนุสาวรีย์ท้าวสุรนารี",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "อนุสาวรีย์วีรสตรีไทยที่ชาวโคราชเคารพนับถือ สร้างขึ้นเพื่อระลึกถึงคุณความดีของท่านผู้หญิงโม เป็นศูนย์รวมจิตใจของคนโคราช",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/thao_suranari.png",
+      "thumbnail": "image/thumbnails/Northeast/thao_suranari_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 14.975,
+      "lng": 102.098,
+      "foods": [
+        {
+          "name": "ผัดหมี่โคราช",
+          "desc": "หมี่ผัดสูตรโคราช"
+        },
+        {
+          "name": "ส้มตำโคราช",
+          "desc": "ส้มตำปลาร้ารสจัด"
+        },
+        {
+          "name": "ขนมจีนประโดก",
+          "desc": "อาหารพื้นบ้านโคราช"
+        }
+      ],
+      "shops": [],
+      "name_en": "Thao Suranari Monument",
+      "province_en": "Nakhon Ratchasima",
+      "description_en": "A monument to the revered heroine Lady Mo, the spiritual heart of the people of Korat.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "NE004": {
+      "name_th": "ปราสาทหินพิมาย",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "ปราสาทหินขอมขนาดใหญ่ที่สุดในประเทศไทย สร้างขึ้นในพุทธศตวรรษที่ 16-17 สะท้อนความรุ่งเรืองของอารยธรรมขอมโบราณ",
+      "opening_hours": "07:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/phimai_historical_park.png",
+      "thumbnail": "image/thumbnails/Northeast/phimai_historical_park_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 15.221,
+      "lng": 102.494,
+      "foods": [
+        {
+          "name": "ผัดหมี่พิมาย",
+          "desc": "เมนูดังประจำอำเภอ"
+        },
+        {
+          "name": "ไก่ย่างพิมาย",
+          "desc": "กินคู่ส้มตำ"
+        },
+        {
+          "name": "ขนมจีนน้ำยา",
+          "desc": "ร้านหน้าปราสาท"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phimai Historical Park",
+      "province_en": "Nakhon Ratchasima",
+      "description_en": "The largest Khmer stone temple in Thailand, built in the 11th–12th centuries, reflecting the glory of the ancient Khmer civilisation.",
+      "opening_hours_en": "07:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100 THB (foreigners)"
+    },
+    "NE005": {
+      "name_th": "วังน้ำเขียว",
+      "province": "นครราชสีมา",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "อำเภอที่ได้ชื่อว่าสวิตเซอร์แลนด์แดนอีสาน อากาศเย็นสบายตลอดปี มีไร่องุ่น สวนดอกไม้ และรีสอร์ทท่ามกลางธรรมชาติ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/wang_nam_khiao.png",
+      "thumbnail": "image/thumbnails/Northeast/wang_nam_khiao_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 14.41,
+      "lng": 101.8,
+      "foods": [
+        {
+          "name": "ไก่ย่างวังน้ำเขียว",
+          "desc": "ไก่ย่างหนังกรอบ"
+        },
+        {
+          "name": "ผักไฮโดรโปนิกส์",
+          "desc": "จากฟาร์มในพื้นที่"
+        },
+        {
+          "name": "เห็ดหอมผัด",
+          "desc": "เห็ดสดวังน้ำเขียว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wang Nam Khiao",
+      "province_en": "Nakhon Ratchasima",
+      "description_en": "Known as the \"Switzerland of Isan\", with cool weather all year, vineyards, flower gardens and nature resorts.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "NE006": {
+      "name_th": "เชียงคาน",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "เมืองเล็กริมแม่น้ำโขงที่ยังคงกลิ่นอายวิถีชีวิตดั้งเดิม บ้านไม้เก่าแก่เรียงราย บรรยากาศสงบเหมาะแก่การพักผ่อน",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/chiang_khan.png",
+      "thumbnail": "image/thumbnails/Northeast/chiang_khan_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.896,
+      "lng": 101.657,
+      "foods": [
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "ก๋วยเตี๋ยวเส้นเหนียวนุ่มเชียงคาน"
+        },
+        {
+          "name": "ปลาแม่น้ำโขงทอด",
+          "desc": "ปลาสดริมโขง"
+        },
+        {
+          "name": "มะพร้าวแก้ว",
+          "desc": "ของฝากเชียงคาน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Chiang Khan",
+      "province_en": "Loei",
+      "description_en": "A small town on the Mekong with traditional wooden houses and a calm, relaxing atmosphere.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "NE007": {
+      "name_th": "ถนนคนเดินเชียงคาน",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "ถนนคนเดินยามเย็นริมแม่น้ำโขง เต็มไปด้วยร้านอาหาร ของฝาก และร้านค้าพื้นเมืองในบรรยากาศบ้านไม้เก่าโบราณ",
+      "opening_hours": "17:00-22:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/chiang_khan_walking_street.png",
+      "thumbnail": "image/thumbnails/Northeast/chiang_khan_walking_street_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.899,
+      "lng": 101.663,
+      "foods": [
+        {
+          "name": "ข้าวจี่",
+          "desc": "ข้าวเหนียวปิ้งทาไข่"
+        },
+        {
+          "name": "มะพร้าวแก้ว",
+          "desc": "ของฝากขึ้นชื่อ"
+        },
+        {
+          "name": "ไส้กรอกอีสาน",
+          "desc": "ย่างร้อนๆ ริมถนน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Chiang Khan Walking Street",
+      "province_en": "Loei",
+      "description_en": "An evening walking street by the Mekong full of food, souvenirs and local shops among old wooden houses.",
+      "opening_hours_en": "17:00-22:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE008": {
+      "name_th": "ภูกระดึง",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "อุทยานแห่งชาติชื่อดังที่มียอดเขาที่ราบสูงกว้างใหญ่ อากาศเย็นสบายตลอดปี นิยมเดินป่าขึ้นชมทะเลหมอกและพระอาทิตย์ขึ้น",
+      "opening_hours": "07:00-14:00 (เปิดรับนักท่องเที่ยว ต.ค.-พ.ค.)",
+      "entrance_fee": "40 บาท (คนไทย) / 400 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/phu_kradueng.png",
+      "thumbnail": "image/thumbnails/Northeast/phu_kradueng_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 16.87,
+      "lng": 101.79,
+      "foods": [
+        {
+          "name": "ข้าวผัด",
+          "desc": "อาหารบนหลังแป"
+        },
+        {
+          "name": "มาม่าต้มร้อน",
+          "desc": "เมนูยอดนิยมบนภู"
+        },
+        {
+          "name": "ข้าวจี่",
+          "desc": "ข้าวเหนียวปิ้งเชิงภู"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phu Kradueng",
+      "province_en": "Loei",
+      "description_en": "A famous national park with a vast plateau summit and cool weather, popular for hiking to see mist and sunrise.",
+      "opening_hours_en": "07:00-14:00 (open to visitors Oct–May)",
+      "entrance_fee_en": "40 THB (Thai) / 400 THB (foreigners)"
+    },
+    "NE009": {
+      "name_th": "ภูเรือ",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "อุทยานแห่งชาติที่มีอากาศหนาวเย็นเกือบตลอดปี จุดชมวิวทะเลหมอกและดอกไม้เมืองหนาว เป็นแหล่งท่องเที่ยวยอดนิยมของเลย",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "40 บาท (คนไทย) / 400 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/phu_ruea.png",
+      "thumbnail": "image/thumbnails/Northeast/phu_ruea_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 17.44,
+      "lng": 101.356,
+      "foods": [
+        {
+          "name": "สตรอว์เบอร์รีภูเรือ",
+          "desc": "ผลไม้เมืองหนาว"
+        },
+        {
+          "name": "หมูกระทะ",
+          "desc": "กินกลางอากาศเย็น"
+        },
+        {
+          "name": "ไวน์ภูเรือ",
+          "desc": "เครื่องดื่มขึ้นชื่อ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phu Ruea",
+      "province_en": "Loei",
+      "description_en": "A national park that is cold almost all year, with sea-of-mist viewpoints and cool-climate flowers.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "40 THB (Thai) / 400 THB (foreigners)"
+    },
+    "NE010": {
+      "name_th": "วัดป่าภูก้อน",
+      "province": "อุดรธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "วัดป่าที่งดงามด้วยสถาปัตยกรรมหินอ่อนสีขาว ตั้งอยู่ท่ามกลางป่าเขาเขียวขจี บรรยากาศสงบเหมาะแก่การปฏิบัติธรรม",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/wat_pa_phu_kon.png",
+      "thumbnail": "image/thumbnails/Northeast/wat_pa_phu_kon_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 17.93,
+      "lng": 102.25,
+      "foods": [
+        {
+          "name": "ส้มตำไก่ย่าง",
+          "desc": "ร้านในชุมชน"
+        },
+        {
+          "name": "ลาบหมู",
+          "desc": "อาหารอีสาน"
+        },
+        {
+          "name": "ข้าวเหนียว",
+          "desc": "กินคู่ทุกเมนู"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Pa Phu Kon",
+      "province_en": "Udon Thani",
+      "description_en": "A forest temple with stunning white-marble architecture set among green hills — peaceful and ideal for meditation.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE011": {
+      "name_th": "ทะเลบัวแดง",
+      "province": "อุดรธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "หนองหานกุมภวาปีที่เต็มไปด้วยดอกบัวแดงบานสะพรั่งเต็มผืนน้ำ นิยมล่องเรือชมความงามในช่วงเช้าตรู่",
+      "opening_hours": "06:00-11:00",
+      "entrance_fee": "ค่าเรือ 300-400 บาท/ลำ",
+      "image": "image/details/Northeast/red_lotus_sea.png",
+      "thumbnail": "image/thumbnails/Northeast/red_lotus_sea_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.205,
+      "lng": 103.0,
+      "foods": [
+        {
+          "name": "ปลาเผาเกลือ",
+          "desc": "ปลาจากหนองหาน"
+        },
+        {
+          "name": "ส้มตำปลาร้า",
+          "desc": "อาหารอีสานแท้"
+        },
+        {
+          "name": "ไก่ย่าง",
+          "desc": "ร้านริมหนอง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Red Lotus Sea",
+      "province_en": "Udon Thani",
+      "description_en": "Nong Han Kumphawapi lake covered with blooming red lotuses, best seen by boat in the early morning.",
+      "opening_hours_en": "06:00-11:00",
+      "entrance_fee_en": "Boat 300-400 THB/boat"
+    },
+    "NE012": {
+      "name_th": "คำชะโนด",
+      "province": "อุดรธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "เกาะลอยน้ำศักดิ์สิทธิ์ที่เชื่อกันว่าเป็นเมืองบาดาลของพญานาค เต็มไปด้วยต้นชะโนดขึ้นหนาแน่น เป็นสถานที่ศักดิ์สิทธิ์ที่คนนิยมมากราบไหว้",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/kham_chanod.png",
+      "thumbnail": "image/thumbnails/Northeast/kham_chanod_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.629,
+      "lng": 102.804,
+      "foods": [
+        {
+          "name": "ไก่ย่าง",
+          "desc": "ร้านหน้าทางเข้า"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "อาหารอีสาน"
+        },
+        {
+          "name": "ข้าวจี่",
+          "desc": "ข้าวเหนียวปิ้ง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Kham Chanot",
+      "province_en": "Udon Thani",
+      "description_en": "A sacred floating island believed to be the underworld city of the Naga, dense with Chanot palms.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE013": {
+      "name_th": "พญานาคริมแม่น้ำโขง",
+      "province": "นครพนม",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "ประติมากรรมพญานาคขนาดใหญ่ริมฝั่งแม่น้ำโขง จุดถ่ายภาพยอดนิยมที่สะท้อนความเชื่อเรื่องพญานาคของชาวอีสาน",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/naga_mekong_riverside.png",
+      "thumbnail": "image/thumbnails/Northeast/naga_mekong_riverside_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.407,
+      "lng": 104.784,
+      "foods": [
+        {
+          "name": "ปลาแม่น้ำโขงเผา",
+          "desc": "ปลาสดจากโขง"
+        },
+        {
+          "name": "แหนมเนือง",
+          "desc": "อาหารเวียดนามริมโขง"
+        },
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "อาหารเช้ายอดนิยม"
+        }
+      ],
+      "shops": [],
+      "name_en": "Naga Statue by the Mekong",
+      "province_en": "Nakhon Phanom",
+      "description_en": "A giant Naga sculpture on the Mekong riverbank — a popular photo spot reflecting Isan beliefs.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "NE014": {
+      "name_th": "พระธาตุพนม",
+      "province": "นครพนม",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "พระธาตุศักดิ์สิทธิ์คู่บ้านคู่เมืองที่สำคัญที่สุดแห่งหนึ่งของอีสาน เชื่อกันว่าบรรจุพระอุรังคธาตุของพระพุทธเจ้า",
+      "opening_hours": "06:00-20:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/phra_that_phanom.png",
+      "thumbnail": "image/thumbnails/Northeast/phra_that_phanom_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 16.942,
+      "lng": 104.724,
+      "foods": [
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "ร้านหน้าองค์พระธาตุ"
+        },
+        {
+          "name": "แหนมเนือง",
+          "desc": "อาหารเวียดนาม"
+        },
+        {
+          "name": "ปลาเผาแม่น้ำโขง",
+          "desc": "ร้านริมโขง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phra That Phanom",
+      "province_en": "Nakhon Phanom",
+      "description_en": "One of the most sacred pagodas in Isan, believed to enshrine the breastbone relic of the Buddha.",
+      "opening_hours_en": "06:00-20:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE015": {
+      "name_th": "สามพันโบก",
+      "province": "อุบลราชธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "แกรนด์แคนยอนแห่งแม่น้ำโขง หินทรายรูปทรงแปลกตาที่ปรากฏให้เห็นในช่วงหน้าแล้งเมื่อระดับน้ำโขงลดลง",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/sam_phan_boke.png",
+      "thumbnail": "image/thumbnails/Northeast/sam_phan_boke_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 15.813,
+      "lng": 105.416,
+      "foods": [
+        {
+          "name": "ลาบปลาโขง",
+          "desc": "ปลาสดริมแม่น้ำ"
+        },
+        {
+          "name": "ปลาเผาเกลือ",
+          "desc": "ร้านในชุมชน"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "อาหารอีสาน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Sam Phan Bok",
+      "province_en": "Ubon Ratchathani",
+      "description_en": "The \"Grand Canyon of the Mekong\" — oddly shaped sandstone that appears in the dry season when the river is low.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE016": {
+      "name_th": "ผาแต้ม",
+      "province": "อุบลราชธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "หน้าผาที่มีภาพเขียนสีก่อนประวัติศาสตร์อายุกว่า 3,000 ปี และเป็นจุดชมพระอาทิตย์ขึ้นแรกสุดของประเทศไทย",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "40 บาท (คนไทย) / 200 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/pha_taem.png",
+      "thumbnail": "image/thumbnails/Northeast/pha_taem_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 15.401,
+      "lng": 105.505,
+      "foods": [
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "ร้านในโขงเจียม"
+        },
+        {
+          "name": "ลาบปลาโขง",
+          "desc": "อาหารริมโขง"
+        },
+        {
+          "name": "ปลาแม่น้ำทอด",
+          "desc": "ปลาสด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Pha Taem",
+      "province_en": "Ubon Ratchathani",
+      "description_en": "A cliff with prehistoric paintings over 3,000 years old and the first sunrise viewpoint in Thailand.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "40 THB (Thai) / 200 THB (foreigners)"
+    },
+    "NE017": {
+      "name_th": "วัดสิรินธรวรารามภูพร้าว",
+      "province": "อุบลราชธานี",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "วัดที่มีชื่อเสียงจากภาพจิตรกรรมต้นกัลปพฤกษ์เรืองแสงยามค่ำคืน ตั้งอยู่บนภูเขาที่มองเห็นทิวทัศน์กว้างไกล",
+      "opening_hours": "06:00-21:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/wat_sirindhorn_wararam.png",
+      "thumbnail": "image/thumbnails/Northeast/wat_sirindhorn_wararam_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 15.23,
+      "lng": 105.474,
+      "foods": [
+        {
+          "name": "ส้มตำไก่ย่าง",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "อาหารเช้า"
+        },
+        {
+          "name": "หมูยอ",
+          "desc": "ของฝากอุบล"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Sirindhorn Wararam Phu Phrao",
+      "province_en": "Ubon Ratchathani",
+      "description_en": "Famous for its glowing \"tree of life\" mural at night, set on a hill with wide views.",
+      "opening_hours_en": "06:00-21:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE018": {
+      "name_th": "มอหินขาว",
+      "province": "ชัยภูมิ",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "กลุ่มหินทรายรูปทรงแปลกตาคล้ายสโตนเฮนจ์เมืองไทย ตั้งอยู่ในอุทยานแห่งชาติภูแลนคา บรรยากาศธรรมชาติสวยงาม",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/Northeast/mor_hin_khao.png",
+      "thumbnail": "image/thumbnails/Northeast/mor_hin_khao_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 16.017,
+      "lng": 101.778,
+      "foods": [
+        {
+          "name": "ไก่ย่าง",
+          "desc": "ไก่บ้านย่างเตาถ่าน"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "อาหารอีสาน"
+        },
+        {
+          "name": "ข้าวจี่",
+          "desc": "ของกินเล่น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Mo Hin Khao",
+      "province_en": "Chaiyaphum",
+      "description_en": "A group of odd sandstone pillars, nicknamed \"Thailand's Stonehenge\", in Phu Laen Kha National Park.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "NE019": {
+      "name_th": "ปราสาทพนมรุ้ง",
+      "province": "บุรีรัมย์",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "ปราสาทหินขอมบนยอดภูเขาไฟดับ สร้างขึ้นตามคติความเชื่อของศาสนาฮินดู มีปรากฏการณ์พระอาทิตย์ลอดช่องประตู 15 ช่องปีละ 4 ครั้ง",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "50 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/Northeast/phanom_rung.png",
+      "thumbnail": "image/thumbnails/Northeast/phanom_rung_128.png",
+      "source": "กรมศิลปากร",
+      "lat": 14.532,
+      "lng": 102.942,
+      "foods": [
+        {
+          "name": "ข้าวต้มมัด",
+          "desc": "ขนมพื้นบ้าน"
+        },
+        {
+          "name": "ไก่ย่าง",
+          "desc": "อาหารอีสาน"
+        },
+        {
+          "name": "ส้มตำปูปลาร้า",
+          "desc": "รสจัดแบบอีสาน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phanom Rung Historical Park",
+      "province_en": "Buriram",
+      "description_en": "A Khmer stone temple on an extinct volcano; four times a year the sun shines through all 15 doorways.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "50 THB (Thai) / 100 THB (foreigners)"
+    },
+    "NE020": {
+      "name_th": "สกายวอล์กเชียงคาน",
+      "province": "เลย",
+      "region": "ภาคตะวันออกเฉียงเหนือ",
+      "description": "จุดชมวิวพื้นกระจกใสยื่นออกจากหน้าผา มองเห็นทิวทัศน์แม่น้ำโขงและทะเลหมอกได้แบบพาโนรามา เป็นแลนด์มาร์กใหม่ของเชียงคาน",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "40 บาท",
+      "image": "image/details/Northeast/chiang_khan_skywalk.png",
+      "thumbnail": "image/thumbnails/Northeast/chiang_khan_skywalk_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 17.901,
+      "lng": 101.602,
+      "foods": [
+        {
+          "name": "ข้าวเปียกเส้น",
+          "desc": "อาหารเช้าคนเชียงคาน"
+        },
+        {
+          "name": "กาแฟริมโขง",
+          "desc": "ดื่มชมวิวแม่น้ำ"
+        },
+        {
+          "name": "ข้าวจี่",
+          "desc": "ข้าวเหนียวปิ้ง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Chiang Khan Skywalk",
+      "province_en": "Loei",
+      "description_en": "A glass-floor viewpoint jutting from a cliff with panoramic views of the Mekong and mist — Chiang Khan's new landmark.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "40 THB"
+    },
+    "S001": {
+      "name_th": "หาดป่าตอง",
+      "province": "ภูเก็ต",
+      "region": "ภาคใต้",
+      "description": "ชายหาดที่มีชื่อเสียงที่สุดของภูเก็ต เต็มไปด้วยกิจกรรมทางน้ำ ร้านอาหาร และไนท์ไลฟ์คึกคักตลอดคืน",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/patong_beach.png",
+      "thumbnail": "image/thumbnails/South/patong_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.896,
+      "lng": 98.296,
+      "foods": [
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "หมี่ฮกเกี้ยน",
+          "desc": "อาหารจีนสไตล์ภูเก็ต"
+        },
+        {
+          "name": "โรตีกล้วย",
+          "desc": "ของหวานริมทาง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Patong Beach",
+      "province_en": "Phuket",
+      "description_en": "Phuket's most famous beach, full of water sports, restaurants and lively nightlife.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S002": {
+      "name_th": "เมืองเก่าภูเก็ต",
+      "province": "ภูเก็ต",
+      "region": "ภาคใต้",
+      "description": "ย่านเมืองเก่าที่เต็มไปด้วยอาคารสถาปัตยกรรมชิโน-โปรตุกีสสีสันสดใส ร้านกาแฟและงานศิลปะ บรรยากาศคลาสสิกเป็นเอกลักษณ์",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/phuket_old_town.png",
+      "thumbnail": "image/thumbnails/South/phuket_old_town_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.884,
+      "lng": 98.388,
+      "foods": [
+        {
+          "name": "หมี่ฮกเกี้ยน",
+          "desc": "อาหารจีนฮกเกี้ยนสไตล์ภูเก็ต"
+        },
+        {
+          "name": "โอ้เอ๋ว",
+          "desc": "ของหวานเย็นท้องถิ่น"
+        },
+        {
+          "name": "ขนมจีนแกงปู",
+          "desc": "ขนมจีนน้ำแกงใต้"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phuket Old Town",
+      "province_en": "Phuket",
+      "description_en": "An old town of colourful Sino-Portuguese buildings, cafés and street art with a classic atmosphere.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S003": {
+      "name_th": "แหลมพรหมเทพ",
+      "province": "ภูเก็ต",
+      "region": "ภาคใต้",
+      "description": "จุดชมพระอาทิตย์ตกที่สวยที่สุดแห่งหนึ่งของภูเก็ต แหลมหินยื่นออกสู่ทะเลอันดามัน มองเห็นทิวทัศน์กว้างไกลสุดสายตา",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/laem_promthep.webp",
+      "thumbnail": "image/thumbnails/South/laem_promthep_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.762,
+      "lng": 98.306,
+      "foods": [
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "ร้านวิวพระอาทิตย์ตก"
+        },
+        {
+          "name": "น้ำมะพร้าว",
+          "desc": "ดื่มชมวิว"
+        },
+        {
+          "name": "ขนมจีนแกงใต้",
+          "desc": "อาหารพื้นเมือง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Promthep Cape",
+      "province_en": "Phuket",
+      "description_en": "One of Phuket's best sunset spots — a rocky cape reaching into the Andaman Sea with sweeping views.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S004": {
+      "name_th": "หาดกะตะ",
+      "province": "ภูเก็ต",
+      "region": "ภาคใต้",
+      "description": "ชายหาดโค้งสวยงามบรรยากาศเงียบสงบกว่าป่าตอง เหมาะแก่การพักผ่อนและเล่นน้ำ มีจุดชมวิวเขากะตะที่มองเห็นสองอ่าว",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/kata_beach.png",
+      "thumbnail": "image/thumbnails/South/kata_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.82,
+      "lng": 98.298,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "ต้มยำกุ้ง",
+          "desc": "อาหารไทยยอดนิยม"
+        },
+        {
+          "name": "สมูทตี้ผลไม้",
+          "desc": "ดื่มริมทะเล"
+        }
+      ],
+      "shops": [],
+      "name_en": "Kata Beach",
+      "province_en": "Phuket",
+      "description_en": "A beautiful curved beach, calmer than Patong, with the Kata viewpoint overlooking two bays.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S005": {
+      "name_th": "หาดกะรน",
+      "province": "ภูเก็ต",
+      "region": "ภาคใต้",
+      "description": "หาดทรายยาวเงียบสงบ น้ำทะเลใสสะอาด เหมาะสำหรับครอบครัวและผู้ที่ต้องการหลีกหนีความวุ่นวาย",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/karon_beach.png",
+      "thumbnail": "image/thumbnails/South/karon_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.846,
+      "lng": 98.294,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "หมี่ฮกเกี้ยน",
+          "desc": "อาหารภูเก็ต"
+        },
+        {
+          "name": "ไอศกรีมมะพร้าว",
+          "desc": "ของหวานคลายร้อน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Karon Beach",
+      "province_en": "Phuket",
+      "description_en": "A long, quiet beach with clear water, great for families and escaping the crowds.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S006": {
+      "name_th": "เกาะพีพี",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "หมู่เกาะสวรรค์กลางทะเลอันดามัน โด่งดังระดับโลกจากภาพยนตร์เรื่อง The Beach น้ำทะเลใสและปะการังสวยงาม",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี (ค่าเรือแยกต่างหาก)",
+      "image": "image/details/South/phi_phi_island.png",
+      "thumbnail": "image/thumbnails/South/phi_phi_island_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.74,
+      "lng": 98.77,
+      "foods": [
+        {
+          "name": "อาหารทะเลบาร์บีคิว",
+          "desc": "ร้านริมหาดโละดาลัม"
+        },
+        {
+          "name": "ผัดไทยกุ้ง",
+          "desc": "อาหารยอดนิยมบนเกาะ"
+        },
+        {
+          "name": "โรตีกล้วย",
+          "desc": "ขายตามซอยบนเกาะ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phi Phi Islands",
+      "province_en": "Krabi",
+      "description_en": "World-famous Andaman islands made famous by the film The Beach, with clear water and coral reefs.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free (boat fare extra)"
+    },
+    "S007": {
+      "name_th": "อ่าวมาหยา",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "อ่าวขนาดเล็กล้อมรอบด้วยหน้าผาหินปูนสูงชัน น้ำทะเลสีเทอร์ควอยซ์ใสสะอาด หนึ่งในชายหาดที่สวยที่สุดในโลก",
+      "opening_hours": "07:00-17:30 (ปิดพักฟื้นธรรมชาติบางช่วง)",
+      "entrance_fee": "400 บาท (ต่างชาติ) / ฟรี (คนไทย)",
+      "image": "image/details/South/maya_bay.png",
+      "thumbnail": "image/thumbnails/South/maya_bay_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 7.678,
+      "lng": 98.766,
+      "foods": [
+        {
+          "name": "อาหารกล่องบนเรือ",
+          "desc": "จากทัวร์เรือ"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "บริการบนเรือ"
+        },
+        {
+          "name": "อาหารทะเลที่เกาะพีพีดอน",
+          "desc": "แวะกินหลังเที่ยว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Maya Bay",
+      "province_en": "Krabi",
+      "description_en": "A small bay surrounded by limestone cliffs with turquoise water — one of the most beautiful beaches in the world.",
+      "opening_hours_en": "07:00-17:30 (closed periodically for recovery)",
+      "entrance_fee_en": "400 THB (foreigners) / Free (Thai)"
+    },
+    "S008": {
+      "name_th": "หาดไร่เลย์",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "หาดสวยที่เข้าถึงได้เฉพาะทางเรือ ล้อมรอบด้วยหน้าผาหินปูนสูงชัน นิยมปีนหน้าผาและพายเรือคายัค",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/railay_beach.png",
+      "thumbnail": "image/thumbnails/South/railay_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 8.011,
+      "lng": 98.838,
+      "foods": [
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "แกงมัสมั่น",
+          "desc": "อาหารไทยยอดนิยม"
+        },
+        {
+          "name": "สมูทตี้ผลไม้",
+          "desc": "ดื่มชมวิวหน้าผา"
+        }
+      ],
+      "shops": [],
+      "name_en": "Railay Beach",
+      "province_en": "Krabi",
+      "description_en": "A beautiful beach reachable only by boat, surrounded by limestone cliffs — popular for rock climbing and kayaking.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S009": {
+      "name_th": "อ่าวนาง",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "ชายหาดยอดนิยมศูนย์กลางการท่องเที่ยวของกระบี่ เป็นจุดขึ้นเรือไปยังเกาะต่างๆ เต็มไปด้วยร้านอาหารและที่พัก",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/ao_nang.png",
+      "thumbnail": "image/thumbnails/South/ao_nang_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 8.032,
+      "lng": 98.822,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดอ่าวนาง"
+        },
+        {
+          "name": "แกงไตปลา",
+          "desc": "แกงใต้รสจัด"
+        },
+        {
+          "name": "โรตีกล้วย",
+          "desc": "ของหวานริมทาง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Ao Nang",
+      "province_en": "Krabi",
+      "description_en": "Krabi's main beach and tourist hub, the departure point for island boats, with plenty of restaurants and hotels.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S010": {
+      "name_th": "เกาะปอดะ",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "เกาะเล็กๆ ที่มีหาดทรายขาวละเอียดและน้ำทะเลใสตื้น เหมาะแก่การเล่นน้ำและดำน้ำตื้นชมปะการัง",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี (ค่าเรือแยกต่างหาก)",
+      "image": "image/details/South/koh_poda.png",
+      "thumbnail": "image/thumbnails/South/koh_poda_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.97,
+      "lng": 98.81,
+      "foods": [
+        {
+          "name": "อาหารกล่องบนเรือ",
+          "desc": "จากทัวร์ 4 เกาะ"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "บริการบนเรือ"
+        },
+        {
+          "name": "น้ำมะพร้าว",
+          "desc": "ขายบนเกาะ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Poda",
+      "province_en": "Krabi",
+      "description_en": "A small island with fine white sand and shallow clear water, great for swimming and snorkelling.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free (boat fare extra)"
+    },
+    "S011": {
+      "name_th": "สระมรกต",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "สระน้ำธรรมชาติสีเขียวมรกตกลางป่าดิบชื้น เกิดจากตาน้ำใต้ดิน ต้องเดินป่าเข้าไปชม บรรยากาศร่มรื่นสดชื่น",
+      "opening_hours": "08:30-16:30",
+      "entrance_fee": "200 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/South/emerald_pool.png",
+      "thumbnail": "image/thumbnails/South/emerald_pool_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 7.925,
+      "lng": 99.267,
+      "foods": [
+        {
+          "name": "ข้าวยำปักษ์ใต้",
+          "desc": "ข้าวคลุกสมุนไพร"
+        },
+        {
+          "name": "ไก่ทอดหาดใหญ่",
+          "desc": "ร้านหน้าทางเข้า"
+        },
+        {
+          "name": "ขนมจีนแกงใต้",
+          "desc": "อาหารพื้นเมือง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Emerald Pool",
+      "province_en": "Krabi",
+      "description_en": "A natural emerald-green spring pool in the rainforest, reached by a shady jungle walk.",
+      "opening_hours_en": "08:30-16:30",
+      "entrance_fee_en": "200 THB (Thai) / 300 THB (foreigners)"
+    },
+    "S012": {
+      "name_th": "เกาะลันตา",
+      "province": "กระบี่",
+      "region": "ภาคใต้",
+      "description": "เกาะบรรยากาศเงียบสงบ หาดทรายยาวสวยงาม เหมาะแก่การพักผ่อนแบบสโลว์ไลฟ์ ห่างไกลจากความวุ่นวาย",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/koh_lanta.png",
+      "thumbnail": "image/thumbnails/South/koh_lanta_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 7.625,
+      "lng": 99.08,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "ข้าวหมกไก่",
+          "desc": "อาหารมุสลิม"
+        },
+        {
+          "name": "โรตีชาชัก",
+          "desc": "ของว่างยามเย็น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Lanta",
+      "province_en": "Krabi",
+      "description_en": "A peaceful island with long beautiful beaches, perfect for a slow-life escape.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S013": {
+      "name_th": "เกาะสมุย",
+      "province": "สุราษฎร์ธานี",
+      "region": "ภาคใต้",
+      "description": "เกาะท่องเที่ยวชื่อดังระดับโลก มีหาดทรายสวยงาม รีสอร์ทหรู และกิจกรรมท่องเที่ยวหลากหลายตลอดปี",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/koh_samui.png",
+      "thumbnail": "image/thumbnails/South/koh_samui_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 9.512,
+      "lng": 100.0136,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดเฉวง"
+        },
+        {
+          "name": "ข้าวยำปักษ์ใต้",
+          "desc": "อาหารพื้นเมือง"
+        },
+        {
+          "name": "มะพร้าวน้ำหอมสมุย",
+          "desc": "ผลไม้ขึ้นชื่อเกาะ"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Samui",
+      "province_en": "Surat Thani",
+      "description_en": "A world-famous island with beautiful beaches, luxury resorts and activities all year round.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S014": {
+      "name_th": "เกาะพะงัน",
+      "province": "สุราษฎร์ธานี",
+      "region": "ภาคใต้",
+      "description": "เกาะที่มีชื่อเสียงระดับโลกจากงานฟูลมูนปาร์ตี้ พร้อมหาดทรายสวยงามและบรรยากาศธรรมชาติเขียวขจี",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/koh_phangan.png",
+      "thumbnail": "image/thumbnails/South/koh_phangan_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 9.738,
+      "lng": 100.02,
+      "foods": [
+        {
+          "name": "อาหารทะเลบาร์บีคิว",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "ผัดไทย",
+          "desc": "อาหารยอดนิยม"
+        },
+        {
+          "name": "สมูทตี้ผลไม้",
+          "desc": "ดื่มริมทะเล"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Phangan",
+      "province_en": "Surat Thani",
+      "description_en": "World-famous for the Full Moon Party, with beautiful beaches and lush green nature.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S015": {
+      "name_th": "เกาะเต่า",
+      "province": "สุราษฎร์ธานี",
+      "region": "ภาคใต้",
+      "description": "เกาะขนาดเล็กที่ได้รับความนิยมจากนักดำน้ำทั่วโลก น้ำทะเลใสและปะการังสมบูรณ์ เหมาะแก่การเรียนดำน้ำลึก",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/koh_tao.webp",
+      "thumbnail": "image/thumbnails/South/koh_tao_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 10.095,
+      "lng": 99.84,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดทรายรี"
+        },
+        {
+          "name": "แกงเขียวหวาน",
+          "desc": "อาหารไทย"
+        },
+        {
+          "name": "โรตีกล้วย",
+          "desc": "ของหวาน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Tao",
+      "province_en": "Surat Thani",
+      "description_en": "A small island loved by divers worldwide, with clear water and rich coral — ideal for learning to scuba dive.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S016": {
+      "name_th": "เขื่อนเชี่ยวหลาน",
+      "province": "สุราษฎร์ธานี",
+      "region": "ภาคใต้",
+      "description": "เขื่อนที่มีทัศนียภาพงดงามคล้ายกุ้ยหลินเมืองไทย เขาหินปูนสูงชันโผล่พ้นผืนน้ำ นิยมพักแพและล่องเรือชมธรรมชาติ",
+      "opening_hours": "08:00-16:00",
+      "entrance_fee": "ฟรี (ค่าแพและเรือแยกต่างหาก)",
+      "image": "image/details/South/chiaw_lan_dam.png",
+      "thumbnail": "image/thumbnails/South/chiaw_lan_dam_128.png",
+      "source": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+      "lat": 8.975,
+      "lng": 98.82,
+      "foods": [
+        {
+          "name": "อาหารบนแพ",
+          "desc": "แพพักริมเขื่อน"
+        },
+        {
+          "name": "ปลาเผา",
+          "desc": "ปลาจากอ่างเก็บน้ำ"
+        },
+        {
+          "name": "ต้มยำปลา",
+          "desc": "น้ำซุปร้อน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Cheow Lan Dam",
+      "province_en": "Surat Thani",
+      "description_en": "A lake with \"Guilin of Thailand\" scenery — limestone peaks rising from the water. Popular for raft houses and boat trips.",
+      "opening_hours_en": "08:00-16:00",
+      "entrance_fee_en": "Free (raft & boat extra)"
+    },
+    "S017": {
+      "name_th": "หมู่เกาะสิมิลัน",
+      "province": "พังงา",
+      "region": "ภาคใต้",
+      "description": "หมู่เกาะที่ได้รับการยกย่องว่ามีความสวยงามติดอันดับโลก น้ำทะเลใสสีฟ้าคราม และแนวปะการังอุดมสมบูรณ์ เหมาะแก่การดำน้ำ",
+      "opening_hours": "เปิด ต.ค.-พ.ค. (ปิดฤดูมรสุม)",
+      "entrance_fee": "200 บาท (คนไทย) / 500 บาท (ต่างชาติ)",
+      "image": "image/details/South/similan_islands.png",
+      "thumbnail": "image/thumbnails/South/similan_islands_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 8.65,
+      "lng": 97.646,
+      "foods": [
+        {
+          "name": "อาหารบนเรือ",
+          "desc": "จากทัวร์ดำน้ำ"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "บริการบนเรือ"
+        },
+        {
+          "name": "อาหารทะเลที่ทับละมุ",
+          "desc": "แวะกินหลังเที่ยว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Similan Islands",
+      "province_en": "Phang Nga",
+      "description_en": "Islands ranked among the world's most beautiful, with crystal-blue water and rich reefs, perfect for diving.",
+      "opening_hours_en": "Open Oct–May (closed in monsoon)",
+      "entrance_fee_en": "200 THB (Thai) / 500 THB (foreigners)"
+    },
+    "S018": {
+      "name_th": "เขาหลัก",
+      "province": "พังงา",
+      "region": "ภาคใต้",
+      "description": "แหล่งท่องเที่ยวชายทะเลบรรยากาศร่มรื่นเงียบสงบ เป็นจุดออกเรือไปหมู่เกาะสิมิลันและสุรินทร์ นิยมดำน้ำและพักผ่อน",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/khao_lak.png",
+      "thumbnail": "image/thumbnails/South/khao_lak_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 8.64,
+      "lng": 98.25,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "หมูฮ้อง",
+          "desc": "หมูตุ๋นสไตล์บาบ๋า"
+        },
+        {
+          "name": "ขนมจีนแกงใต้",
+          "desc": "อาหารพื้นเมือง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Lak",
+      "province_en": "Phang Nga",
+      "description_en": "A quiet, shady beach destination and the departure point for the Similan and Surin islands.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S019": {
+      "name_th": "เกาะหลีเป๊ะ",
+      "province": "สตูล",
+      "region": "ภาคใต้",
+      "description": "เกาะที่ได้ชื่อว่ามัลดีฟส์เมืองไทย น้ำทะเลใสสีฟ้าครามและหาดทรายขาวละเอียด บรรยากาศเงียบสงบเหมาะแก่การพักผ่อน",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/South/koh_lipe.png",
+      "thumbnail": "image/thumbnails/South/koh_lipe_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 6.49,
+      "lng": 99.302,
+      "foods": [
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "บนถนนคนเดิน"
+        },
+        {
+          "name": "ข้าวหมก",
+          "desc": "ข้าวมุสลิมเครื่องเทศ"
+        },
+        {
+          "name": "โรตีชาชัก",
+          "desc": "ของว่างยามเย็น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Lipe",
+      "province_en": "Satun",
+      "description_en": "Known as the \"Maldives of Thailand\", with crystal-blue water, fine white sand and a peaceful vibe.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "S020": {
+      "name_th": "อุทยานแห่งชาติเขาสก",
+      "province": "สุราษฎร์ธานี",
+      "region": "ภาคใต้",
+      "description": "ป่าดิบชื้นเก่าแก่ที่สุดแห่งหนึ่งของโลก มีถ้ำ น้ำตก และทะเลสาบเชี่ยวหลานอยู่ในเขต เป็นแหล่งดูนกและสัตว์ป่าที่สำคัญ",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "200 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/South/khao_sok_national_park.png",
+      "thumbnail": "image/thumbnails/South/khao_sok_national_park_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 8.913,
+      "lng": 98.527,
+      "foods": [
+        {
+          "name": "อาหารบนแพ",
+          "desc": "แพพักในอุทยาน"
+        },
+        {
+          "name": "ปลาแม่น้ำทอด",
+          "desc": "ปลาสดจากเขื่อน"
+        },
+        {
+          "name": "แกงส้มปลา",
+          "desc": "แกงใต้รสจัด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Sok National Park",
+      "province_en": "Surat Thani",
+      "description_en": "One of the oldest rainforests in the world, with caves, waterfalls and Cheow Lan Lake — great for birds and wildlife.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "200 THB (Thai) / 300 THB (foreigners)"
+    },
+    "E001": {
+      "name_th": "พัทยา",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "เมืองท่องเที่ยวชายทะเลชื่อดังระดับโลก มีชายหาด สวนสนุก ศูนย์การค้า และไนท์ไลฟ์คึกคัก เป็นจุดหมายยอดนิยมของนักท่องเที่ยวต่างชาติ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/pattaya.png",
+      "thumbnail": "image/thumbnails/East/pattaya_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.9276,
+      "lng": 100.8771,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดพัทยา"
+        },
+        {
+          "name": "ข้าวหลามหนองมน",
+          "desc": "ของฝากชลบุรี"
+        },
+        {
+          "name": "ห่อหมกทะเล",
+          "desc": "ห่อหมกเนื้อแน่น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Pattaya",
+      "province_en": "Chonburi",
+      "description_en": "A world-famous beach city with beaches, theme parks, malls and lively nightlife, popular with international visitors.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E002": {
+      "name_th": "เกาะล้าน",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะใกล้พัทยาที่มีหาดทรายขาวและน้ำทะเลใส เหมาะสำหรับเล่นน้ำและกิจกรรมทางทะเล เดินทางโดยเรือจากท่าเรือพัทยาใช้เวลาประมาณ 45 นาที",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี (ค่าเรือแยกต่างหาก)",
+      "image": "image/details/East/koh_laan.png",
+      "thumbnail": "image/thumbnails/East/koh_laan_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.918,
+      "lng": 100.78,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดตาแหวน"
+        },
+        {
+          "name": "ปูม้านึ่ง",
+          "desc": "อาหารทะเลยอดนิยม"
+        },
+        {
+          "name": "น้ำมะพร้าว",
+          "desc": "ดื่มริมหาด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Larn",
+      "province_en": "Chonburi",
+      "description_en": "An island near Pattaya with white sand and clear water, about 45 minutes by boat from Pattaya pier.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free (boat fare extra)"
+    },
+    "E003": {
+      "name_th": "วัดเขาชีจรรย์",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "วัดบนหน้าผาที่มีพุทธศิลป์แกะสลักพระพุทธรูปขนาดใหญ่บนหน้าผาหินยาวที่สุดในโลก ชมวิวทะเลพัทยาและเมืองได้อย่างงดงาม",
+      "opening_hours": "08:00-17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/wat_khao_chi_chan.png",
+      "thumbnail": "image/thumbnails/East/wat_khao_chi_chan_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 12.765,
+      "lng": 100.95,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ข้าวหลามหนองมน",
+          "desc": "ของฝาก"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "ร้านหน้าวัด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Khao Chi Chan",
+      "province_en": "Chonburi",
+      "description_en": "Home to the world's largest Buddha image engraved on a cliff face, with views over Pattaya.",
+      "opening_hours_en": "08:00-17:00",
+      "entrance_fee_en": "Free"
+    },
+    "E004": {
+      "name_th": "สวนสัตว์เปิดเขาเขียว",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "สวนสัตว์เปิดขนาดใหญ่ที่สัตว์อาศัยอยู่ในสภาพแวดล้อมใกล้เคียงธรรมชาติ มีสัตว์นานาชนิดกว่า 8,000 ตัว นิยมมากสำหรับครอบครัวและเด็กๆ",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "150 บาท (คนไทย) / 300 บาท (ต่างชาติ)",
+      "image": "image/details/East/khao_kheow_open_zoo.png",
+      "thumbnail": "image/thumbnails/East/khao_kheow_open_zoo_128.png",
+      "source": "องค์การสวนสัตว์แห่งประเทศไทย",
+      "lat": 13.215,
+      "lng": 101.056,
+      "foods": [
+        {
+          "name": "ข้าวผัด",
+          "desc": "ร้านในสวนสัตว์"
+        },
+        {
+          "name": "ไก่ทอด",
+          "desc": "อาหารสำหรับครอบครัว"
+        },
+        {
+          "name": "ไอศกรีม",
+          "desc": "กินคลายร้อน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Kheow Open Zoo",
+      "province_en": "Chonburi",
+      "description_en": "A large open zoo with over 8,000 animals living in near-natural habitats, popular with families.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "150 THB (Thai) / 300 THB (foreigners)"
+    },
+    "E005": {
+      "name_th": "เกาะสีชัง",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะแห่งประวัติศาสตร์ที่เคยเป็นที่ประทับพักฟื้นของรัชกาลที่ 5 มีพระจุฑาธุชราชฐาน หาดทรายสวยงาม บรรยากาศเงียบสงบ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี (ค่าเรือแยกต่างหาก)",
+      "image": "image/details/East/koh_si_chang.png",
+      "thumbnail": "image/thumbnails/East/koh_si_chang_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 13.15,
+      "lng": 100.813,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมท่าเรือ"
+        },
+        {
+          "name": "หมึกย่าง",
+          "desc": "ของขึ้นชื่อบนเกาะ"
+        },
+        {
+          "name": "ข้าวผัดปู",
+          "desc": "อาหารจานเดียว"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Sichang",
+      "province_en": "Chonburi",
+      "description_en": "A historic island once King Rama V's retreat, with the Phra Chudadhut Palace, pretty beaches and a calm atmosphere.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free (boat fare extra)"
+    },
+    "E006": {
+      "name_th": "เกาะเสม็ด",
+      "province": "ระยอง",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะในอุทยานแห่งชาติที่มีหาดทรายขาวสะอาดและน้ำทะเลใส ใกล้กรุงเทพฯ เหมาะแก่การพักผ่อนระยะสั้น มีกิจกรรมทางน้ำหลากหลาย",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "200 บาท (คนไทย) / 200 บาท (ต่างชาติ)",
+      "image": "image/details/East/koh_samet.png",
+      "thumbnail": "image/thumbnails/East/koh_samet_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 12.568,
+      "lng": 101.453,
+      "foods": [
+        {
+          "name": "อาหารทะเลบาร์บีคิว",
+          "desc": "ร้านริมหาดทรายแก้ว"
+        },
+        {
+          "name": "ปลาหมึกย่าง",
+          "desc": "ของขึ้นชื่อ"
+        },
+        {
+          "name": "ผัดไทย",
+          "desc": "อาหารยอดนิยม"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Samet",
+      "province_en": "Rayong",
+      "description_en": "A national-park island with clean white beaches and clear water near Bangkok, great for short breaks and water sports.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "200 THB (Thai) / 200 THB (foreigners)"
+    },
+    "E007": {
+      "name_th": "หาดแม่รำพึง",
+      "province": "ระยอง",
+      "region": "ภาคตะวันออก",
+      "description": "ชายหาดยาวสวยงามบรรยากาศเงียบสงบของระยอง เหมาะแก่การพักผ่อนริมทะเล มีที่พักและร้านอาหารทะเลสดรองรับ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/mae_ramphueng_beach.png",
+      "thumbnail": "image/thumbnails/East/mae_ramphueng_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.63,
+      "lng": 101.37,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "ปลาหมึกแดดเดียว",
+          "desc": "ของฝากระยอง"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "ร้านริมหาด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Mae Ramphueng Beach",
+      "province_en": "Rayong",
+      "description_en": "A long, quiet beach in Rayong with hotels and fresh seafood restaurants.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E008": {
+      "name_th": "สวนผลไม้ระยอง",
+      "province": "ระยอง",
+      "region": "ภาคตะวันออก",
+      "description": "ระยองขึ้นชื่อเรื่องผลไม้เมืองร้อน โดยเฉพาะทุเรียน มังคุด เงาะ และสละ มีสวนผลไม้ให้ชมและชิมสินค้าตามฤดูกาล",
+      "opening_hours": "08:00-17:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/rayong_fruit_garden.png",
+      "thumbnail": "image/thumbnails/East/rayong_fruit_garden_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.74,
+      "lng": 101.4,
+      "foods": [
+        {
+          "name": "ทุเรียนระยอง",
+          "desc": "ผลไม้ขึ้นชื่อ"
+        },
+        {
+          "name": "มังคุด",
+          "desc": "ราชินีผลไม้"
+        },
+        {
+          "name": "เงาะโรงเรียน",
+          "desc": "ผลไม้หน้าร้อน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Rayong Fruit Orchards",
+      "province_en": "Rayong",
+      "description_en": "Rayong is famous for tropical fruit such as durian, mangosteen, rambutan and salak — visit orchards to taste them in season.",
+      "opening_hours_en": "08:00-17:00",
+      "entrance_fee_en": "Free"
+    },
+    "E009": {
+      "name_th": "น้ำตกพลิ้ว",
+      "province": "จันทบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "น้ำตกงดงามในอุทยานแห่งชาติน้ำตกพลิ้ว ล้อมรอบด้วยป่าดิบชื้น มีสระน้ำธรรมชาติเหมาะแก่การเล่นน้ำ บรรยากาศร่มรื่นสดชื่น",
+      "opening_hours": "08:00-16:00",
+      "entrance_fee": "20 บาท (คนไทย) / 100 บาท (ต่างชาติ)",
+      "image": "image/details/East/phliu_waterfall.png",
+      "thumbnail": "image/thumbnails/East/phliu_waterfall_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 12.522,
+      "lng": 102.178,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเลียงผัดปู",
+          "desc": "เมนูขึ้นชื่อจันท์"
+        },
+        {
+          "name": "ไก่ย่างส้มตำ",
+          "desc": "ร้านหน้าอุทยาน"
+        },
+        {
+          "name": "ทุเรียนจันท์",
+          "desc": "ราชาผลไม้"
+        }
+      ],
+      "shops": [],
+      "name_en": "Phlio Waterfall",
+      "province_en": "Chanthaburi",
+      "description_en": "A beautiful waterfall in Namtok Phlio National Park, surrounded by rainforest with natural pools for swimming.",
+      "opening_hours_en": "08:00-16:00",
+      "entrance_fee_en": "20 THB (Thai) / 100 THB (foreigners)"
+    },
+    "E010": {
+      "name_th": "ชุมชนริมน้ำจันทบูร",
+      "province": "จันทบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "ย่านเมืองเก่าริมแม่น้ำจันทบุรี อาคารสถาปัตยกรรมโคโลเนียลอายุกว่า 100 ปี ร้านอาหาร คาเฟ่ และตลาดของกินในบรรยากาศวินเทจ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/chanthaboon_waterfront.png",
+      "thumbnail": "image/thumbnails/East/chanthaboon_waterfront_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.61,
+      "lng": 102.105,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเลียงผัดปู",
+          "desc": "เมนูขึ้นชื่อจันท์"
+        },
+        {
+          "name": "หมูชะมวง",
+          "desc": "แกงหมูใบชะมวง"
+        },
+        {
+          "name": "ขนมไข่",
+          "desc": "ขนมโบราณในชุมชน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Chanthaboon Waterfront",
+      "province_en": "Chanthaburi",
+      "description_en": "An old riverside quarter with 100-year-old colonial buildings, restaurants, cafés and food markets.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E011": {
+      "name_th": "ตลาดพลอยจันทบุรี",
+      "province": "จันทบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "ศูนย์กลางการค้าอัญมณีที่ใหญ่ที่สุดในโลก จันทบุรีขึ้นชื่อเรื่องพลอยสีคุณภาพสูง มีตลาดซื้อขายพลอยทุกวันเสาร์-อาทิตย์",
+      "opening_hours": "08:00-14:00 (เสาร์-อาทิตย์)",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/chanthaburi_gem_market.png",
+      "thumbnail": "image/thumbnails/East/chanthaburi_gem_market_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.608,
+      "lng": 102.103,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเลียงผัดปู",
+          "desc": "ร้านในตลาด"
+        },
+        {
+          "name": "หมูชะมวง",
+          "desc": "อาหารพื้นเมือง"
+        },
+        {
+          "name": "ทุเรียนทอด",
+          "desc": "ของฝาก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Chanthaburi Gem Market",
+      "province_en": "Chanthaburi",
+      "description_en": "One of the world's largest coloured-gemstone trading centres, with a gem market every Saturday and Sunday.",
+      "opening_hours_en": "08:00-14:00 (Sat–Sun)",
+      "entrance_fee_en": "Free"
+    },
+    "E012": {
+      "name_th": "เกาะช้าง",
+      "province": "ตราด",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะที่ใหญ่เป็นอันดับสองของประเทศไทย มีหาดทรายสวยงาม ป่าดิบชื้น น้ำตก และทะเลสีฟ้าใส เหมาะแก่การท่องเที่ยวเชิงธรรมชาติ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/koh_chang.png",
+      "thumbnail": "image/thumbnails/East/koh_chang_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.056,
+      "lng": 102.33,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดทรายขาว"
+        },
+        {
+          "name": "ปลาเผา",
+          "desc": "ร้านริมทะเล"
+        },
+        {
+          "name": "ระกำหวาน",
+          "desc": "ผลไม้ขึ้นชื่อตราด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Chang",
+      "province_en": "Trat",
+      "description_en": "Thailand's second-largest island, with beautiful beaches, rainforest, waterfalls and clear blue sea.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E013": {
+      "name_th": "เกาะกูด",
+      "province": "ตราด",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะบริสุทธิ์ที่มีธรรมชาติสมบูรณ์ น้ำทะเลใสสีเขียวมรกต หาดทรายขาวละเอียด ป่าดิบและน้ำตกสวยงาม บรรยากาศสงบเงียบห่างไกลความวุ่นวาย",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/koh_kood.png",
+      "thumbnail": "image/thumbnails/East/koh_kood_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 11.65,
+      "lng": 102.55,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านในรีสอร์ต"
+        },
+        {
+          "name": "ปลาหมึกย่าง",
+          "desc": "ของขึ้นชื่อ"
+        },
+        {
+          "name": "มะพร้าวน้ำหอม",
+          "desc": "ดื่มริมหาด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Kood",
+      "province_en": "Trat",
+      "description_en": "An unspoiled island with emerald water, fine white sand, jungle and waterfalls — quiet and remote.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E014": {
+      "name_th": "เกาะหมาก",
+      "province": "ตราด",
+      "region": "ภาคตะวันออก",
+      "description": "เกาะที่ยังคงความเป็นธรรมชาติดั้งเดิม ไม่มีรถยนต์วิ่ง ปาล์มทะเลสวยงาม น้ำทะเลใส เหมาะสำหรับผู้ที่ต้องการพักผ่อนแบบสงบ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/koh_mak.png",
+      "thumbnail": "image/thumbnails/East/koh_mak_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 11.82,
+      "lng": 102.48,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาด"
+        },
+        {
+          "name": "แกงเขียวหวาน",
+          "desc": "อาหารไทย"
+        },
+        {
+          "name": "น้ำมะพร้าว",
+          "desc": "ดื่มริมหาด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Koh Mak",
+      "province_en": "Trat",
+      "description_en": "A natural island with no cars, beautiful palms and clear water — perfect for a quiet getaway.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    },
+    "E015": {
+      "name_th": "อุทยานแห่งชาติหมู่เกาะช้าง",
+      "province": "ตราด",
+      "region": "ภาคตะวันออก",
+      "description": "อุทยานแห่งชาติทางทะเลที่ครอบคลุมหมู่เกาะหลายแห่งในตราด มีแนวปะการังสมบูรณ์ สัตว์ทะเลหลากชนิด เหมาะแก่การดำน้ำและพักแบบธรรมชาติ",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "200 บาท (คนไทย) / 500 บาท (ต่างชาติ)",
+      "image": "image/details/East/mu_koh_chang_national_park.png",
+      "thumbnail": "image/thumbnails/East/mu_koh_chang_national_park_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 11.99,
+      "lng": 102.34,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านบนเกาะ"
+        },
+        {
+          "name": "อาหารบนเรือ",
+          "desc": "จากทัวร์ดำน้ำ"
+        },
+        {
+          "name": "ระกำหวาน",
+          "desc": "ผลไม้ตราด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Mu Ko Chang National Park",
+      "province_en": "Trat",
+      "description_en": "A marine park covering many islands in Trat, with rich coral reefs and marine life, ideal for diving.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "200 THB (Thai) / 500 THB (foreigners)"
+    },
+    "E016": {
+      "name_th": "วนอุทยานเขาแหลมหญ้า-หมู่เกาะเสม็ด",
+      "province": "ระยอง",
+      "region": "ภาคตะวันออก",
+      "description": "เขตอุทยานที่รวมเกาะเสม็ดและชายฝั่งแหลมหญ้า มีจุดชมวิวริมทะเลสวยงาม เหมาะแก่การพักแบบธรรมชาติและดำน้ำตื้น",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "200 บาท (คนไทย) / 200 บาท (ต่างชาติ)",
+      "image": "image/details/East/khao_laem_ya.png",
+      "thumbnail": "image/thumbnails/East/khao_laem_ya_128.png",
+      "source": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+      "lat": 12.59,
+      "lng": 101.41,
+      "foods": [
+        {
+          "name": "อาหารทะเลสด",
+          "desc": "ร้านริมหาดแหลมแม่พิมพ์"
+        },
+        {
+          "name": "ปลาหมึกแดดเดียว",
+          "desc": "ของฝากระยอง"
+        },
+        {
+          "name": "ส้มตำ",
+          "desc": "ร้านริมทาง"
+        }
+      ],
+      "shops": [],
+      "name_en": "Khao Laem Ya – Mu Ko Samet",
+      "province_en": "Rayong",
+      "description_en": "A protected area covering Koh Samet and the Laem Ya coast, with sea viewpoints and snorkelling.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "200 THB (Thai) / 200 THB (foreigners)"
+    },
+    "E017": {
+      "name_th": "ตลาดโต้รุ่งพัทยา",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "ตลาดกลางคืนชื่อดังของพัทยา เปิดตลอดคืนถึงรุ่งเช้า มีอาหารทะเลสด ของกิน ของฝาก และสินค้าหลากหลาย บรรยากาศคึกคักสนุกสนาน",
+      "opening_hours": "18:00-06:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/pattaya_night_market.png",
+      "thumbnail": "image/thumbnails/East/pattaya_night_market_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 12.923,
+      "lng": 100.88,
+      "foods": [
+        {
+          "name": "หอยทอด",
+          "desc": "ทำสดในตลาด"
+        },
+        {
+          "name": "อาหารทะเลย่าง",
+          "desc": "สตรีทฟู้ด"
+        },
+        {
+          "name": "โรตี",
+          "desc": "ของหวานยามดึก"
+        }
+      ],
+      "shops": [],
+      "name_en": "Pattaya Night Market",
+      "province_en": "Chonburi",
+      "description_en": "Pattaya's famous all-night market with fresh seafood, snacks, souvenirs and a lively atmosphere.",
+      "opening_hours_en": "18:00-06:00",
+      "entrance_fee_en": "Free"
+    },
+    "E018": {
+      "name_th": "วัดญาณสังวรารามวรมหาวิหาร",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "วัดสำคัญที่สร้างขึ้นเพื่อเทิดพระเกียรติสมเด็จพระสังฆราชญาณสังวร ตั้งอยู่บนเขาชีโอน สถาปัตยกรรมงดงาม บรรยากาศสงบร่มเย็น",
+      "opening_hours": "06:00-18:00",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/wat_yansangwararam.png",
+      "thumbnail": "image/thumbnails/East/wat_yansangwararam_128.png",
+      "source": "กรมการศาสนา",
+      "lat": 12.774,
+      "lng": 100.96,
+      "foods": [
+        {
+          "name": "ก๋วยเตี๋ยวเรือ",
+          "desc": "ร้านใกล้วัด"
+        },
+        {
+          "name": "ข้าวหลามหนองมน",
+          "desc": "ของฝาก"
+        },
+        {
+          "name": "ผลไม้สด",
+          "desc": "ร้านหน้าวัด"
+        }
+      ],
+      "shops": [],
+      "name_en": "Wat Yansangwararam",
+      "province_en": "Chonburi",
+      "description_en": "An important temple honouring Supreme Patriarch Somdet Phra Yanasangwon, with beautiful architecture and a calm atmosphere.",
+      "opening_hours_en": "06:00-18:00",
+      "entrance_fee_en": "Free"
+    },
+    "E019": {
+      "name_th": "สวนนงนุช",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "สวนพฤกษศาสตร์เขตร้อนขนาดใหญ่ที่มีพืชพรรณหายากจากทั่วโลก การแสดงวัฒนธรรมไทย ช้าง และสวนหินที่สวยงาม ใกล้พัทยา",
+      "opening_hours": "08:00-18:00",
+      "entrance_fee": "500 บาท (คนไทย) / 500 บาท (ต่างชาติ)",
+      "image": "image/details/East/nong_nooch_garden.png",
+      "thumbnail": "image/thumbnails/East/nong_nooch_garden_128.png",
+      "source": "สวนนงนุช",
+      "lat": 12.765,
+      "lng": 100.934,
+      "foods": [
+        {
+          "name": "อาหารไทยในสวน",
+          "desc": "ร้านอาหารในสวนนงนุช"
+        },
+        {
+          "name": "ไอศกรีมกะทิ",
+          "desc": "กินคลายร้อน"
+        },
+        {
+          "name": "น้ำมะพร้าว",
+          "desc": "ดื่มระหว่างเดินชมสวน"
+        }
+      ],
+      "shops": [],
+      "name_en": "Nong Nooch Tropical Garden",
+      "province_en": "Chonburi",
+      "description_en": "A huge tropical botanical garden with rare plants, Thai cultural shows, elephants and rock gardens near Pattaya.",
+      "opening_hours_en": "08:00-18:00",
+      "entrance_fee_en": "500 THB (Thai) / 500 THB (foreigners)"
+    },
+    "E020": {
+      "name_th": "หาดบางแสน",
+      "province": "ชลบุรี",
+      "region": "ภาคตะวันออก",
+      "description": "ชายหาดยอดนิยมใกล้กรุงเทพฯ บรรยากาศสนุกสนาน ร้านอาหารทะเลเรียงราย เป็นแหล่งพักผ่อนวันหยุดสุดสัปดาห์ของชาวกรุงเทพฯ",
+      "opening_hours": "ตลอด 24 ชั่วโมง",
+      "entrance_fee": "ฟรี",
+      "image": "image/details/East/bang_saen_beach.png",
+      "thumbnail": "image/thumbnails/East/bang_saen_beach_128.png",
+      "source": "การท่องเที่ยวแห่งประเทศไทย",
+      "lat": 13.283,
+      "lng": 100.912,
+      "foods": [
+        {
+          "name": "อาหารทะเลบางแสน",
+          "desc": "ปู กุ้ง หอยสด"
+        },
+        {
+          "name": "ข้าวหลามหนองมน",
+          "desc": "ของฝากขึ้นชื่อ"
+        },
+        {
+          "name": "ห่อหมกทะเล",
+          "desc": "ห่อหมกเนื้อแน่น"
+        }
+      ],
+      "shops": [],
+      "name_en": "Bang Saen Beach",
+      "province_en": "Chonburi",
+      "description_en": "A popular beach near Bangkok lined with seafood restaurants — a favourite weekend escape for Bangkokians.",
+      "opening_hours_en": "24 hours",
+      "entrance_fee_en": "Free"
+    }
+  }
+}
